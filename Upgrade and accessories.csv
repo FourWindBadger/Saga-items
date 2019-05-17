@@ -1,0 +1,177 @@
+Item,Cost,Type,Upgeade slots,Book,Page,
+Cheater,500,U,1,SV,40,Designed to allow you to cheat at the popular gambling game Sabacc. +2 on WIS checks made to determine the outcome of gambling games. Stealth (+Size Mod) vs Perception to conceal the cheat. If someone beat you at sabacc by 6+ they realize you must be cheating but not know exactly how.
+Cloaked,750,U,1,SV,40,"Equipment has its energy signatures baffled, any noise muffled and its appearance camouflaged. Impose a -5 on Perception or Use Computer checks made to detect it (-2 if item is in use). Weapons are obvious when in use, On armor it applies when you make Deception checks to produce a deceptive appearance (making armor look like clothing)"
+Componentization,,U,1/2,GI,68,"To disguise a piece of equipment or weapon in to other type of equipment (i.e. comlink, datapad, vibroshaver). 1 Upgrade slot breaks item into 2 component each one category smaller (FR Action to reassemble) . 2 Upgrade slots breaks item into 4 items each 2 size categories smaller. (2 FR Actions to reassemble). Identifying a component as part of this upgrade package requires a DC 30 Perception or DC 25 Knowledge (technology) check."
+Droidification,2000,U,2,SV,40,"Equipment turns into a fully functioning droid. Can either act like a droid with access to item or conceal itself as normal piece of equipment (DC 25 Perception to realize its unusual). Stats as ASP Labor droid (CR 203) with -3STR, +1DEX, -2sq movement per size smaller than medium (no score less than 1) and apply size mod. Considered to be proficient with equipment its built out of. Only devices can receive this upgrade, Weapons, armor, vehicles can not. If any additional droid equipment or systems are added it becomes obvious that the device is a droid.Equipment turns into a fully functioning droid. Can either act like a droid with access to item or conceal itself as normal piece of equipment (DC 25 Perception to realize its unusual). Stats as ASP Labor droid (CR 203) with -3STR, +1DEX, -2sq movement per size smaller than medium (no score less than 1) and apply size mod. Considered to be proficient with equipment its built out of. Only devices can receive this upgrade, Weapons, armor, vehicles can not. If any additional droid equipment or systems are added it becomes obvious that the device is a droid."
+Dual Gear,1000,U,1,SV,41,One piece of equipment can be built into another as an upgrade. Can not place a larger item into a smaller item. Normally it can not act as both pieces of equipment at once. Must pay full price for the piece of equipment being added to the primary object. Can not share power source. The added equipment does not have any upgrade slots.One piece of equipment can be built into another as an upgrade. Can not place a larger item into a smaller item. Normally it can not act as both pieces of equipment at once. Must pay full price for the piece of equipment being added to the primary object. Can not share power source. The added equipment does not have any upgrade slots.
+Electrograpple Handle,1000,U,1,SV,41,"Often used on a weapon to throw down and ""prove"" he is disarmed only to retrieve it when trouble starts. Magnetized section of equipment designed to fly toward a specially attuned grapple gauntlet (included in price). May retrieve item as a M Action within 6sq, if hilt or strapped down it grants +5 bonus on opposed STR check or Break DC.Often used on a weapon to throw down and ""prove"" he is disarmed only to retrieve it when trouble starts. Magnetized section of equipment designed to fly toward a specially attuned grapple gauntlet (included in price). May retrieve item as a M Action within 6sq, if hilt or strapped down it grants +5 bonus on opposed STR check or Break DC."
+Environmental Sealing,400,U,1,SV,41,"Equipment works normally in vacuum, underwater, packed in sand or in a snowstorm. Does not take dmg from corrosive or toxic atmospheres, extreme temperatures, normal fires or radiation.Equipment works normally in vacuum, underwater, packed in sand or in a snowstorm. Does not take dmg from corrosive or toxic atmospheres, extreme temperatures, normal fires or radiation."
+Extra power source*,200,U,1,SV,41,"Any equipment that runs on Energy cells or Power packs now have two such power sources doubling the duration the
+device will function. Can be taken multiple times."
+Memory Upgrade,4000,U,1,SV,41,"Any device with INT score (not droid) can have this upgrade. Device gain +2 INT and x2 storage capacity. Unless
+noted, unmodified items hold a number of memory units equal to 5xINT (each memory units holds the same amount of
+data as a recording unit). 10 memory units are enough to hold coordinates for a single hyperspace jump."
+"Memory upgrade, Advanced",16000,U,2,SV,41,Any device with INT score (not droid) can have this upgrade. Device gain +4 INT and x5 storage capacity.
+Miniaturized,500,U,1,SV,41,"Equipment weights half as much and is one size smaller. If melee weapon dmg dice is reduced by one step (d6s
+becomes d4s, d4s becomes d3s and so on)."
+Recognition System,200,U,1,SV,41,"Can identify its owner and will not function for anyone else. Fooling it takes 1min and a DC 30 Use Computer
+check. Owner can deactivate this function as a F Action. Optionally it can have a code phrase that allows anyone
+to deactivate it."
+Remote Activation,100,U,0,SV,41,"Allows a piece of equipment to be activated with a signal from a comlink or similar comm device. i.e. set a
+droid to activate, fusion lantern to flare to life, computer to start running a program, holoprojector to begin
+a recorded projection. Sw Action to activate which includes entering a command code (allowing comlink to
+activate multiple pieces of remote gear) Range is determined by the comm device used. A character aware of a
+piece of remotely activated gear can find the necessary frequency and activation code with a DC 30 Use Computer
+check."
+Secret Compartment,600,U,1,SV,41,"As Storage capacity upgrade except that it can hold a single item one size smaller than the equipment itself in
+a secret compartment. DC 30 Perception check to notice (DC 25 Perception check to find it with a close, hands-on
+examination."
+Silverplate,2500,U,1,SV,42,"Chroming process that adds a layer of tough composite material on surface of any piece of gear. Gear gain +2 DR
+to the item itself."
+Spring Loaded,300,U,1,SV,42,"Any equipment that can be held and used in one hand can be spring-loaded. Sw Action to Ready item. 1/turn, If
+you have the Quick Draw feat, you may draw the item as a F Action."
+Storage Capacity,100,U,0,SV,42,"Allow gear to carry smaller gear within or on it in a obvious compartment. Can hold multiple items atleast one
+size smaller that gear itself and the total weight must be less than equipments weight with the upgrade."
+Ion Shielding,1000,C,1,GW,50,"Host is not treated as being cyberneticly enhanced for the purposes of taking ion dmg. If even one cybernetic
+enhancement does not have this shielding, the host gain no benefit."
+Bayonet Ring, +100% of weapon cost,W,0,sv,42,"Added on a melee weapon of small or lesser size. Can be mounted on a chosen ranged weapon of atleast Medium size
+that can not require a tripod or other mount for normal operations. While mounted new weapons size is Large.
+Increase dmg of melee weapon by one die step (d2 to d3) but weapon group and dmg type stay the same.
+You now threaten sq within reach as normal with a melee weapon.
+M Action to mount/remove."
+Beam Splitter,1200,W,2,k,75,"Pistols, Rifles, Heavy weapons, Exotic ranged weapons that deals energy dmg: Increasing the size of the bolt
+fires. 1/Encounter, Can when using the Power Blast feat it will deal +2 dmg for every 1 point subtracted from
+the atk bonus."
+Bipod,100,W,0,sv,43,"Two-legged stand that steadies barrel of a rifle or heavy weapon when aiming or using autofire. Preparing for
+use is a M Action (if you move you have to prepare it again) when either prone or adjacent to low objects that
+are between you and your target. Counts as a mount for any weapon that require it for other weapons makes aiming
+easier. If already aimed or atk a particular target, each subsequent aim action requires only a single Sw Action
+(1/round F Action with Sniping Master talent) Loose benefit if you atk or aim at any other target.
+Increase weight by 20% of weapons weight."
+Double Trigger,800,W,0,sv,43,"One trigger is a safety and the other is a hair-trigger that fires when the slightest pressure is applied to it.
+With Careful Shot feat gain +2 bonus on atk rolls if aim first (instead of the normal +1)."
+Durasteel Bonding,2000,W,1,k,75,"Simple, Advanced, Exotic melee weapon that deals slashing dmg: Coats weapon with a thin layer of durasteel,
+increases its own DR by 5 and add one die in dmg on a critical hit (dmg added after dmg is multiplied for the
+critical hit)."
+Enhanced Energy Projector,3000,W,1,k,75,"Advanced or exotic melee weapon that requires a power pack: Smoothes the flow of the power making it less likely
+to produce unpredictable results. 1/Encounter, wielder may reroll a natural 1 on any atk roll, must keep second
+result."
+Hair TriggerHair Trigger,1200,W,1,k,75,"Pistols, Rifles, Heavy weapons, Exotic ranged weapons that use a trigger mechanism to fire: Makes it easier to
+fire several shots by reducing the amount of pressure that must be placed on the trigger. 1/Encounter, wielder
+that use the Rapid Shot feat to modify an atk roll may reroll the dmg from the atk, keeping the better result."
+Improved Energy Cell,4000,W,2,k,75,"Pistols, Rifles, Heavy weapons, Exotic ranged weapons that require a power pack: Increases the efficiency of the
+energy flow between a power pack and the firing mechanism. Doubles the number of short it can fire on a single
+power pack. Additionally if the weapon has the increased weapon dmg modification (Tech Specialist feat) it gains
++3 to dmg."
+Ion ChargerIon Charger,3000,W,1,SV,43,"Encases a melee weapon in a light ion field that flares to full strength anytime the weapon strikes something.
+In addition to normal dmg weapon deals 2d6 of Ion dmg. (additional dmg from i.e. Rapid Strike does not increase
+this Ion dmg only the normal dmg)."
+Missile LoadMissile Load,250,W,1,SV,43,"Convert a grenade (Frag, Ion, Stun grenades and energy balls) into a missile that can be fired from a missile
+launcher. Dmg dice of the original grenade is increased by 50%."
+Neutronium Reinforcement,3000,W,1,SV,43,"Heavy neutron-rich metallic alloy used to harden and sharpen the striking or cutting surface of a melee weapon
+(not lightsaber) Weapon gains +5 DR (max 15), +10HP, +100% weight and if slashing or piercing melee weapon the
+critical range is 19-20."
+Overload Switch,500,W,1,SV,43,"Allows any energy weapon to build a feedback loop that causes it to explode. Sw Action to activate, becomes an
+improvised throwing weapon (-5 on atk roll) with a 2sq burst radius (Area attack) that does double dmg but is
+destroyed. A weapon whose size is 2 or more steps larger than your size can not be thrown, and will instead
+detonate at the end of your turn. Can not be added to energy balls, grenades, thermal detonators, or other
+normally explosive devices."
+Pulse Charger,2000,W,1,SV,43,Can be applied to any blaster weapon. Forces more power into the blast chamber producing a more powerful shot at the expense of lost accuracy. -1 on atk rolls with weapon. +1 point of dmg per die. Draws twice as many shots from the power pack.
+Rangefinder,200,W,1,SV,43,Can be applied to any ranged weapon. Such a weapon takes no penalty when used to atk a target at short range. Does not stack with targeting scope (except on Medium or Long range).
+Rapid Recycler,500,W,1,SV,44,Adds an Autofire mode on a blaster weapon that normally fires only in single mode. This upgrade can not be added to weapons that has a burst radius or splash radius or weapons that specifically prohibit it.
+Retractable Stock,100,W,0/1,SV,44,Any pistol (1 slot) or rifle (0 slots) can have a retractable stock added. Extending or folding stock is a M Action. Folded: Treat as pistol for purposes of proficiency and range. Can not brace. Extended: Treat as rifle for purposes of proficiency and range. take a -5 penalty on atk rolls with weapon if you use it in one hand (regardless of size).
+Slinker,1000,W,1,SV,44,"Can be applied to only slugthrowers and missile weapons. Weapon can no longer fire normal ammo only slinkers
+(twice the normal price) Slinkers are equipped with sensors and battle computers, and programmed to fly around
+obstacles or even around corners. If fired at target in cover target does not gain the normal +5 cover bonus to
+Ref Def. If fire against target in total cover (around corner), attacker selects a specific target sq outside
+his LOS and makes an atk with a +0 bonus against anything in that sq (Effective with area atks). Path from the
+attackers to the targets sq can not have more than a single turn (max 90 degrees)."
+Sniper Switch,500,W,0,SV,44,"Adds an Single firing mode on a autofire-only weapon. However, weapon is no longer a autofire-only weapon so it no longer has reduces autofire penalties when braced (CR 156)."
+"Targeting Scope, Low-light",1000,W,0,CR,140,"As a standard targeting scope in normal light. However, after aiming at a target, it allows the wielder to ignore concealment (but not total concealment) from darkness when attacking target."
+"Targeting Scope, Standard",100,W,0,CR,140,"While aiming it reduces the range by one range category. Loose benefit if you change targets or lose LOS to your target. (Aim, CR 154)."
+Tremor Cell,1000,W,1,K,76,Advanced or exotic melee weapon of max Medium size that requires a power pack : Allowing wielder to subdue rather than kill an opponent by dazing it. Gain a stun setting on the weapon.
+Aquatic Adaptation,500,A,1,SV,44,"Seals armor against pressure of deep ocean travel, filter breathable air out of water indefinitely. Installs fins and small jets to allow swift and easy motion. Gain swim speed of 1/2 of your armored walking speed. Additionally you can reroll a failed Swim check (keeping better) and take 10 on Swim checks even when rushed or threatened."
+Armor Reinforcement,3000,A,1,K,75,DR2 vs. piercing damage.
+Armorplast,900,A,0,SV,45,"Upgrades armor with a high-strength armorplast or a similar lightweight, high-cost material. Reduces the weight of the armor by 50%."
+Climbing Claws,200,A,1,SV,45,"Install retractable spikes into arms and legs of the armor.
+Gain climb speed of 1/2 of your armored walking speed. Additionally you can reroll a failed Climb check (keeping
+better) and take 10 on Climb checks even when rushed or threatened.
+Can be used to fight with. Counts as being two sizes smaller than the wearer and deal slashing dmg equal to the
+base claw dmg for a beast of that size (Medium character would have Tiny claws that deal 1d4 Slash dmg)."
+Diagnostics System,500,A,1,SV,45,Series of sensors and simple computers that monitor both the armor and wearer. Anyone making a Mechanics check on armor or a Treat Injury on wearer gain +2.
+"Environmental Systems, Cold-weather",600,A,1,SV,45,Makes you immune to the effects of extreme cold.
+"Environmental Systems, Warm-weather",600,A,1,SV,45,Makes you immune to the effects of extreme heat.
+Gyro,250,A,1,SV,46,Helps to keep armor upright and stable. Gain +5 stability bonus on checks and all defenses to resist attempts to knock you prone.Helps to keep armor upright and stable. 
+Helmet Package,4000,A,0,CR,140,"Gain +2 on Perception checks, Low-light vision and a hands-free comlink."
+Holoshroud,5000,A,1,SV,46,"Rare. Places small holographic projectors at key points around the armor. Moves as armor moves, making the
+illusion of a different appearance difficult to penetrate. Can store a single image, which must be of the same
+basic size and shape as the armor (DC 20 Use Computer check and 1h to change).
++10 on Stealth checks to conceal items (underneath the image) and on any Deception checks made to create a
+deceptive appearance, however any observer that uses a FR action to search the wearer (or species with scent
+trait or using a sensor pack) gains a +10 circumstance bonus on the opposed Perception check. Sw Action to
+activate/deactivate.
+Powered by a Power pack that has enough power for 20 rounds of use."
+"Integrated Equipment, 1",200,A,1,SV,46,"Can attach one piece of equipment to the armor. Must be 3 or more sizes smaller than the armor itself, or a
+weapon up to Small size. Equipment is constantly ready for use and does not need to be drawn or prepared before
+being used. Swapping out equipment takes 10min and a DC 10 Mechanics check. Equipment to be attached is not
+included in the price for this upgrade."
+"Integrated Equipment, 2",500,A,1,SV,46,"As Integrated equipment, 1 but for 2 pieces of equipment.As Integrated equipment, 1 but for 2 pieces of equipment."
+"Integrated Equipment, 5",1000,A,1,SV,46,"As Integrated equipment, 1 but for 5 pieces of equipment.As Integrated equipment, 1 but for 5 pieces of equipment."
+"Integrated Equipment, 10",2000,A,2,SV,46,"As Integrated equipment, 1 but for 10 pieces of equipment.As Integrated equipment, 1 but for 10 pieces of equipment."
+Internal Generator*,1000,A,1,SV,46,"Miniaturized version of a portable fusion generator (CR 138). Sw Action to activate/deactivate.
+Can provide continuous power for 10 different upgrades, integrated equipment that have a negligible power
+requirements (anything without a listed duration). For devices with a specific power requirements, it can store
+4 units of energy (each equivalent of an EC, PP or 20 rounds of power from a portable fusion reactor),
+automatically recharges one unit every hour. If it supply power to anything other than negligible power items it
+sends out an energy signature, any character attempting to detect wearer with a sensor pack or vehicle sensors
+gain +5 circumstance bonus on Perception or Use Computer checks.
+*Can be taken multiple times if more energy is needed, but each internal generator adds 10kg to the weight of
+the armor."
+Jump Servos,100,A,1,SV,46,"Repulsorlift-aided system that assists in making long jumps. Treat all jumps as running jumps.
+Additionally you can reroll a failed Jump check (keeping better) and take 10 on Jump checks even when rushed or
+threatened."
+Mesh Underlay,2500,A,2,K,76,Helps channel certain types of energy away from the wearers body. +5 to DT vs. Stun dmg.
+Powered Exoskeleton,4000,A,2,SV,46,Enhances the physical strength of the wearer. Sw Action to activate/deactivate. Operates for 20 rounds on a energy cell. When activated it gives wearer +2 to Strength. Adds +5kg on weight.
+Radiation Shielding,400,A,1,SV,46,"Only Medium and Heavy armor: Grants +10 on Fort Def against radiation atks, and reduces dmg by a successful
+radiation atk by 5 points.
+When you should move -1CT persistent as a result of radiation dmg you can make a DC 20 Endurance check to negate
+the persistent condition, You can make this check only the first time you move down CT due to a particular
+radiation hazard. Add +10kg on weight."
+"Rangefinder, Armor",500,A,1,SV,47,As the weapon rangefinder upgrade but it applies only to ranged atks made by weapons built into the armor on a weapon mount.
+Ready Harness,500,A,1,SV,47,"Adds a series of hooks, straps and clips distributed around the armor, designed to make equipment easily
+accessible and to settle weight better. Can hold up to 2 Small pieces of equipment (Large Weapons), 5 Tiny
+pieces of equipment (Medium Weapons), 10 Diminutive pieces of equipment (Small Weapons). Weight of the equipment
+is halved for purposed of determining your encumbrance. Items can be retrieved or replaced as a M Action."
+Repulsorlift,1000,A,1,SV,47,"Takes the same kind of hover repulsorlifts used by droids and modifies them to allow the armor to float up to 1m
+off the ground. Sw Action to activate/deactivate.
+While operating wearer ignores the effects of difficult terrain and takes half dmg from falls.
+Can operate for 10 rounds on a single Energy Cell."
+Shadowskin,5000,A,1,SV,47,Coats armor in a matt black finish of light- and sensor-absorbing material (and sound dampener) turning it into a stealth suit. Grants +5 on all Stealth checks made by the wearer.
+"Shadowskin, Reflec",20000,A,1,SV,47,"Advanced version using the material Reflect, developed by the Grand Army of the Republic. Grants +10 on all Stealth checks made by the wearer."
+"Shield Generator, SR 5",5000,A,2,SV,47,Only Medium and Heavy armor: Grants wearer SR 5. Can use the recharge shield action. Activate/deactivate as a Sw Action. Can operate for 10rounds on a Energy Cell.
+"Shield Generator, SR 10",10000,A,3,SV,47,Only Heavy armor of atleast Medium size: Grants wearer SR 10. Can use the recharge shield action. Activate/deactivate as a Sw Action. Can operate for 10rounds on a Energy Cell.
+Shockweb,6000,A,1,SV,47,"A powerful electrified stun field that can encase the entire surface of the armor.
+When active any time you are the target of a successful melee, grab or grapple atk the attacker takes 1d6
+electrical dmg and 2d6 electrical stun dmg.
+Sw Action to activate/deactivate. Can operate for 20min on a Energy cell, Each time an attacker is dmg in this
+way it discharges 1min of duration off its energy cell."
+Vacuum Seals,2000,A,0,SV,47,Includes airtight gaskets around all joints and simple life support that allows wearer to survive for 10h in vacuum or any other hostile environments. Adds +2kg on weight.
+"Vacuum Seals, Advanced",5000,A,1,SV,47,Medium or Heavy armor: As Vacuum seals except 24h life support and adds +10kg on weight.Medium or Heavy armor: As Vacuum seals except 24h life support and adds +10kg on weight.
+Weapon Mount,1000,A,1,SV,47,"Light armor gain 2, Medium 3, Heavy 4 dedicated weapon mounts. 2-handed weapons cost 2 mounts, 1-handed cost 1
+mount and light weapons cost 1/2 mount.
+Must be proficient with both weapon and armor to be considered proficient with a weapon mount.
+This upgrade does not include the cost for the weapon to be mounted, such weapon is designed only for mount use
+and can not be fired hand-held.
+Takes 10min and a DC 10 Mechanics check to change weapons in a mount. Mounted weapon can not be disarmed and
+does not need to be drawn to be used. They are obvious unless weapon mount is concealed (x3 upgrade cost) then
+it takes a DC25 Perception check to notice weapon not in use."
+Beckon Call,0,L,,J,60,Small comm device that links up with a slave circuit on a starship. When activated autopilot summons the shop to the nearest safe spot close to the wielder. Functions only when connected to a starship with a slave circuit.
+Blade Lock,0,L,,J,60,"Used by wielders who frequently throw the lightsaber. Sw Action to lock blade so it wont turn off. Sw Action to unlock, Meaning 2 Sw Actions to deactivate a locked blade."
+Concealed Compartment,0,L,,J,60,Capable of holding a single object of Fine size.
+Electrum Detail,0,L,,J,60,"Cosmetic accessory generally allowed only to high-ranking Jedi members. Decorates lightsaber handle with the rare metal electrum, giving it a distinctive gold color. Grants favorable circumstances on Persuasion if target if familiar with the electrum detail tradition."
+Fiber Cord,0,L,,J,60,"This small cord of metal fibers attaches to the hilt of the lightsaber. When disarmed the disarming character can not catch the weapon (or call it to his hand). Weapon is still considered ""dropped"" and wielder must spend an action to pick it up, though it hangs in the cord until the wielder does so."
+Force-Activated,0,L,,J,60,Removes the activation button from the exterior. Sw Action and a DC 5 UtF check to activate (can be done as part of the draw weapon action) If check fails it does not activate.
+Interlocking Hilt,0,L,,J,60,Usually applied to pairs of lightsabers. Small interlocking mechanism to the base. Sw Action to lock the hilts together turning the weapon into a double weapon (considered to be one size category larger than the largest of the two weapons).
+Pressure Grip,0,L,,J,60,One of the most popular accessories. It senses when the wielders hand no longer grips it deactivating the lightsaber immediately when dropped or disarmed.
+Trapped Grip,0,L,,J,60,"Requires the wielder to performs some F Action (usually pressing down on a hidden sensor, twisting a knob) before activating the lightsaber safely. If this is not done before being activated wielder takes 1d6 energy dmg again and again at the start of his turn until the trap is deactivated. DC 20 Perception check can reveal the trap mechanism and the disarming action."
+Waterproof Casing,0,L,,J,60,Favored by aquatic lightsaber-users. Allows it to function normally underwater. Submerged in water without this mod it shorts out and must be repaired (takes 1 min) before it will activate.

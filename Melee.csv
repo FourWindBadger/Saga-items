@@ -1,0 +1,107 @@
+Weapon_name,Weapons_type,Size,Cost,Dmg,Stun,Damage Type,Weight,Books,Page,Comment
+Vibrodagger,Advanced Melee Weapons,Tiny,200,2d4,,S/P,1,CR,124,Can be thrown.
+Vibroknucklers,Advanced Melee Weapons,Tiny,200,3,,S,"0,5",C,60,Always 2 sizes smaller than wearer. Considered to be both normal unarmed (Simple weapon) as well as an Advanced melee weapon.
+,,,,,,,,,,
+Shock Whip,Advanced Melee Weapons,Small,1200,1d6,,B,"2,3",L,62,"Reach 2sq. On hit can as a F Action grab target (or use Trip feat) do not take -5 on second atk roll, if hit target grabbed and 1/turn Sw action you can deal normal dmg on that target no atk roll needed."
+Stun Bayonet,Advanced Melee Weapons,Small,500,1d6,2d8,B&E,2,W,,
+Vibroblade,Advanced Melee Weapons,Small,250,2d6,,S/P,"1,8",CR,124,
+,,,,,,,,,,
+Electropole,Advanced Melee Weapons,Medium,1500,2d8,2d8,B&E,"1,3",UR,36,Can be thrown. Gungans treat as Simple weapons.
+Force Pike,Advanced Melee Weapons,Medium,500,2d8,2d8,P&E,2,CR,121,
+Sith Tremor Sword,Advanced Melee Weapons,Medium,60,2d6,,S/P,2,K,147,Cortosis Weave Template. Allowing Medium creatures to gain double strength bonus to dmg. ??
+Vibrobayonet,Advanced Melee Weapons,Medium,350,2d6,,P,1,CR,124,Can not be used on rifle with folded stock.
+"Vibroblade, Dire",Advanced Melee Weapons,Medium,60,2d6,,S/P,2,K,65,Allowing Medium creatures to gain double strength bonus to dmg. ??
+"Vibrorapier
+",Advanced Melee Weapons,Medium,500,2d6,,S,"1,4",C,60,
+,,,,,,,,,,
+Electrostaff,Advanced Melee Weapons,Large,3000,2d6/2d6,2d6/2d6,B&E,2,CR,121,Philk alloy template. DR20 including against lightsabers.
+Energy Lance,Advanced Melee Weapons,Large,3500,2d8,,P&E,5,R,48,If medium creature and trained in Ride can be wielded one-handed while mounted. -1 to atk rolls if medium and not mounted. Can fire bolt of plasma (as ablaster carbine) from its tip. Works underwater.
+Power Hammer,Advanced Melee Weapons,Large,1500,2d12,,B,10,F,97,"If you use Double Atk, Triple Atk, Rapid Strike take additional -2 to Atk."
+Power Lance,Advanced Melee Weapons,Large,2500,2d8,,B&E,5,R,48,If medium creature and trained in Ride can be wielded one-handed while mounted. -1 penalty to atk rolls if medium creature and not mounted.
+San-ni Staff,Advanced Melee Weapons,Large,4500,2d6/2d6,2d6/2d6,B&E,"2,2",J,53,Rare. Impervious to lightsaber dmg. Can be used with Block talent.
+Shock Stick,Advanced Melee Weapons,Large,450,,3d6,E,"1,4",GW,37,"If mounted as a bayonet, wielder takes no penalty to atks for not having WP (Advanced Melee) feat if he is proficient in the rifle use. having WP (Advanced Melee) feat if he is proficient in the rifle use."
+Shockstaff,Advanced Melee Weapons,Large,3500,2d6/2d6,2d6/2d6,B&E,3,K,65,Philk alloy template.
+Static Pike,Advanced Melee Weapons,Large,300,2d6,2d6,P&E,"1,8",GW,37,Can be thrown.
+Vibro-ax,Advanced Melee Weapons,Large,500,2d10,,S,6,CR,124,
+"Vibroblade, Double",Advanced Melee Weapons,Large,550,2d6/2d6,,S,4,F,98,Also in KotoR 65.
+Vibrolance,Advanced Melee Weapons,Large,500,2d10,,P,2,GW,37,
+Vibrosword,Advanced Melee Weapons,Large,450,2d8,,S/P,3,F,98,
+,,,,,,,,,,
+Shyarn,Exotic Weapons,Tiny,40,3d4,,S/P,1,K,65,Rare. No penalty when using Rapid Strike.
+Tehk'la Blade,Exotic Weapons,Tiny,8500,2d6,,P&S,"0,5",L,62,"Rare. If hit, atk roll vs. Ref and Fort Def for an additional 1d6 dmg from bleeding at the start of targets next turn."
+,,,,,,,,,,
+Darkstick,Exotic Weapons,Small,1000,1d6,,S,"1,5",GW,36,"Rare. Can be thrown and if atk 5 over Ref Def it also returns to hand. Atks from enemies who are adjacent treat wielder as if he were in total concealment. If proficient can use more than one in one hand, from 1d6 to 2d8.increasing dmg dice"
+Felucian Skullblade,Exotic Weapons,Small,1500,2d6,,S,"0,5",F,96,Rare.
+Garrote,Exotic Weapons,Small,50,1d6,,S,"0,5",C,59,"Atk treated as a grab atk. Effects at beginning on targets turn, target takes dmg and moves -1CT and normal grab effect. Break out of grab also applies. Requires 2 hands to use."
+,,,,,,,,,,
+Atlatl,Exotic Weapons,Medium,50,2d4,,B,"1,5",CR,121,Rare. Can be used to hurl Energy Balls.
+Blastsword,Exotic Weapons,Medium,600,3d6,,E,"2,1",UR,36,Rare. Can be considered as a light weapon for Weapon Finesse feat.
+Fira,Exotic Weapons,Medium,100,1d8,,S/P,2,K,65,Rare. Cortosis Weave Template. Atk roll vs Ref and Fort Def for target to take half dmg again on the following round from the wound.
+Neuronic whip,Exotic Weapons,Medium,500,1d4,2d8,B&E,"0,5",F,200,Target takes both Lethal and Stun dmg. Reach increases by +1sq.
+Ryyk Blade,Exotic Weapons,Medium,500,2d10,,S,"1,5",F,97,Rare. Wookies with WP (AM) are proficient. +2 bonus on Basic survival application of Survival in forest of jungle wilderness.
+,,,,,,,,,,
+"Amphistaff, Quarterstaff",Exotic Weapons,Large,,1d6/1d6,,B,2,CR,121,"Rare. Sw Action to change between weapon forms. In all forms can spit venom once every 24h, 10sq, Atk vs Ref and Fort Def for -1 persistent step down CT."
+"Amphistaff, Spear",Exotic Weapons,Large,,1d8,,P,2,CR,121,"Rare. Can be thrown, If target takes dmg and atk roll equal or exceeds targets Fort Def, move target -1 CT (poison)."
+"Amphistaff, Whip",Exotic Weapons,Large,,1d4,,P,2,CR,121,Rare. Reach 2sq. Poison (see Amphistaff Spear). Instead of dealing dmg wielder may use Pin or Trip feat (without having the feats).
+Arg'garok,Exotic Weapons,Large,150,2d12,,S,2,K,64,Rare. If not Str 15+ suffer -5 Atk. Gamorreans treat as Advanced melee.
+Cesta,Exotic Weapons,Large,100,2d4,,B,"1,8",CR,121,Rare. Can be used to hurl Energy Balls.
+Vibro-saw,Exotic Weapons,Large,400,2d10,,S,10,UR,36,Ignores targets Damage Reduction.
+Zhaboka,Exotic Weapons,Large,165,2d6/2d6,,S,2,K,66,Rare. No penalty when using Rapid Strike.
+,,,,,,,,,,
+"Lightsaber, Short",Lightsaber Weapons,Small,2500,2d6,"0,5",100,S&E,CR,123,Rare. Can be thrown
+"Shoto, Guard",Lightsaber Weapons,Small,7000,2d4,1,1 EC,S&E,J,50,Rare. Philk alloy template. +2 to Block and Deflect. Also in F96.
+,,,,,,,,,,
+Anakin Solo's Lightsaber,Lightsaber Weapons,Medium,,2d8,1,,S&E,L,97,"Rare. Heirloom, Symbol of the Light template."
+Emperor Palpatine's Lightsaber,Lightsaber Weapons,Medium,,2d8,1,,S&E,L,98,
+"Lightfoil, Archaic",Lightsaber Weapons,Medium,4500,2d8,"0,5",1 EC,S&E,J,50,Rare. May be considered a Small weapon when beneficial. Can not be used two-handed. Also in KotoR 65
+"Lightfoil, Modern",Lightsaber Weapons,Medium,2500,2d6,"0,5",1 EC,S&E,J,50,Rare. May be considered a Small weapon when beneficial. Can not be used two-handed.
+Lightsaber,Lightsaber Weapons,Medium,3000,2d8,1,100,S&E,CR,122,Rare. Can be thrown.
+"Lightsaber, Crossguard",Lightsaber Weapons,Medium,4000,2d8,"0,7",1 EC,S&E,J,52,Rare. Cumulative UtF checks to Block are -2 instead of normal -5. Always -2 penalty on all UtF checks to Deflect.
+"Lightsaber, Dual-Phase",Lightsaber Weapons,Medium,6000,2d8,"0,5",1 EC,S&E,J,51,Rare. Sw Action to extend blade to 3m for +1sq reach but -2 Ref Def vs. atks made by adjacent targets. Can have separate crystals effects.
+"Lightsaber, Archaic",Lightsaber Weapons,Medium,2000,2d6,1,600,S&E,J,51,Rare. External power pack connected with a cord.
+"Lightsaber, Dueling",Lightsaber Weapons,Medium,3000,2d8,"0,3",1 EC,S&E,J,52,Rare. When wielding one-handed +1 equipment bonus on AoOs.
+Lightwhip,Lightsaber Weapons,Medium,5000,2d4,1,1 EC,S&E,J,53,"Rare. Reach 2sq. When deal dmg can initiate a grab or grapple (Can use Pin or Trip) against target (Escape DC15 Acrobatics check) Any character that ends its turn in a grab or grapple takes base weapon dmg (do not  other mods) Also in T84.add Str, half lvl or any"
+Luke Skywalker's Lightsaber,Lightsaber Weapons,Medium,,2d8,1,,S&E,L,98,"Rare. Heirloom, Legendary icon template."
+,,,,,,,,,,
+Lightsaber Pike,Lightsaber Weapons,Large,4000,2d8,2,1 EC,S&E,J,53,"Rare. Philk alloy template. Sw Action to activate lightsaber blade on top, grants =+1 sq reach but -2 on Block and Deflect. Also in F199."
+"Lightsaber, Long-Handle",Lightsaber Weapons,Large,4500,2d8 (2d10),2,1 EC,S&E,J,53,Rare. When wielding two-handed you can forgo the double Str bonus to dmg to instead increase base dmg to 2d10. Also in L62.
+"Lightsaber, Double",Lightsaber Weapons,Large,7000,2d8/2d8,2,200,S&E,CR,123,Rare.
+"Lightsaber, Great",Lightsaber Weapons,Large,5000,2d10,5,1 EC,S&E,J,53,Rare. Only Large creature (or larger) can use with feats that affect light weapons or lightsabers.
+,,,,,,,,,,
+,,,,,,,,,,
+"Combat Gloves, Small",Simple Weapons,Diminutive,150,1,,B,"0,4",CR,121,Can not be disarmed of dropped.
+"Shockboxing Gloves, Small Character",Simple Weapons,Diminutive,500,1,1,B&E,"0,4",GW,37,Can not be disarmed of dropped. Set to stun as a Sw Action.
+"Stunning Gauntlet, Small Character",Simple Weapons,Diminutive,200,,1,E,"0,4",K,202,Also in CW60.
+,,,,,,,,,,
+"Combat Gloves, Medium",Simple Weapons,Tiny,250,1,,B,"0,5",CR,121,Can not be disarmed of dropped.
+Datadagger,Simple Weapons,Tiny,500,1d4,,P,"0,1",T,13,Decorative code cylinder that contains a hidden weapon. Twist hilt to extend blade. +5 bonus on Stealth checks to conceal the object and no circumstance bonus if examiner touches the wielder.
+Knife,Simple Weapons,Tiny,25,1d4,,S/P,1,CR,122,Can be thrown.
+"Shockboxing Gloves, Medium Character",Simple Weapons,Tiny,600,1,1,B&E,"0,5",GW,37,Can not be disarmed of dropped. Set to stun as a Sw Action.
+"Stunning Gauntlet, Medium Character",Simple Weapons,Tiny,300,,1,E,"0,5",K,202,Also in CW60.
+,,,,,,,,,,
+Club/Baton,Simple Weapons,Small,15,1d6,,B,"0,5",CR,121,
+Contact Stunner,Simple Weapons,Small,700,1d4,2d8,B&E,"1,1",UR,36,Grants +5 equipment bonus on Stealth checks made to conceal weapon.
+Entrenching Tool,Simple Weapons,Small,50,1d6,,S/P,1,GW,36,"Multipurpose tool, Short shovel, pickaxe, hammer. -2 on atk rolls."
+Fire Blade,Simple Weapons,Small,200,2d4,,S&E,1,GW,37,Ignores DR of unattended objects.
+Short Sword,Simple Weapons,Small,40,1d6,,S/P,"1,5",K,65,
+Snap Baton,Simple Weapons,Small,100,2d4,2d4,B,1,C,59,Expand a 1m long rod from its tiny handle as a Sw Action. Built-in Glowrod or Panic alarm for x2 price.
+Stun Baton,Simple Weapons,Small,15,1d6,2d6,B,"0,5",CR,124,
+Survival Knife,Simple Weapons,Small,100,1d6,,S,"1,4",UR,36,"Can be thrown, Inaccurate. Built-in Compass. Hollow handle to store very small items i.e. fire rod, binding wire or energy cell."
+"Unarmed, Small Size",Simple Weapons,Small,,1d3,,B,,GW,37,
+,,,,,,,,,,
+Axe,Simple Weapons,Medium,35,1d8,,S,2,R,48,Can be thrown.
+Bayonet,Simple Weapons,Medium,50,1d8,,P,1,CR,121,Can not be used on rifle with folded stock.
+Mace,Simple Weapons,Medium,50,1d8,,B,"2,5",CR,123,
+Riot Shield,Simple Weapons,Medium,500,1d6,2d6,B,6,T,77,"DR5, 20HP, Break DC25. +5 cover vs. ranged atks when fighting defensively."
+Sith Sword,Simple Weapons,Medium,3000,1d8,,S/P,3,T,159,Rare. Sith alchemical weapon template.
+Sith War Sword,Simple Weapons,Medium,50,1d8,,S/P,2,K,147,Sith alchemical weapon template.
+Spear,Simple Weapons,Medium,60,1d8,,P,"1,5",CR,124,Can be thrown.
+"Unarmed, Medium Size",Simple Weapons,Medium,,1d4,,B,,GW,37,
+War sword,Simple Weapons,Medium,50,1d8,,S/P,2,K,66,Known as the longsword in most cultures.
+,,,,,,,,,,
+Dire sword,Simple Weapons,Large,100,1d10,,S/P,4,K,65,Refinement of the classic longsword.
+Double-bladed Sword,Simple Weapons,Large,120,1d6/1d6,,S/P,2,K,65,
+Gaderffii,Simple Weapons,Large,60,2d4/2d4,,B&S,5,R,48,
+Mythosaur Axe,Simple Weapons,Large,1000,1d12,,S,10,K,202,Rare.
+Quarterstaff,Simple Weapons,Large,65,1d6/1d6,,B,"1,8",CR,124,
+Wan-shen,Simple Weapons,Large,1000,2d6/2d6,,S&B,2,J,54,Rare. Used by Matukai. Reach +1sq. Can be broken down into 4 Small objects Assembling or disassembling is a FR Action.

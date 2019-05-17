@@ -1,1846 +1,1724 @@
 [
-  {
-     "Armor name":"Flight Suit"
-    ,"Armor type":"Suites - Suite Counts as equipment and not armor"
-    ,"Ref bonus":"-"
-    ,"Fort Bonus":"1"
-    ,"Max Dex":"-"
-    ,"ACP":0
-    ,"Cost":"1000"
-    ,"Upgeade slots":null
-    ,"Weight":"3"
-    ,"Books":"CR"
-    ,"Page":137
-    ,"Comment":"Built-In Vacuum seals."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Space Suit"
-    ,"Armor type":"Suites - Suite Counts as equipment and not armor"
-    ,"Ref bonus":"-"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"-"
-    ,"ACP":0
-    ,"Cost":"2000"
-    ,"Upgeade slots":null
-    ,"Weight":"15"
-    ,"Books":"CR"
-    ,"Page":137
-    ,"Comment":"Built-In Improved Vacuum seals."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Shipsuit"
-    ,"Armor type":"Suites - Suite Counts as equipment and not armor"
-    ,"Ref bonus":"-"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"-"
-    ,"ACP":0
-    ,"Cost":"200"
-    ,"Upgeade slots":null
-    ,"Weight":"1"
-    ,"Books":"UR"
-    ,"Page":42
-    ,"Comment":"Coverall made by tough synthmesh fabric. Enough pockets and pouches to carry 24 objects of Small size no more than 1kg each. Cumulative weight of the objects is halved when calculating wearers total carried weight. =+1 to Fort Def when resisting extreme temperatures."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"ARC Trooper armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"6"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"8000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"CR"
-    ,"Page":282
-    ,"Comment":"Rare. Built-In Helmet package."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Barabel Microbe armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"2"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"4000"
-    ,"Upgeade slots":2
-    ,"Weight":"6"
-    ,"Books":"GW"
-    ,"Page":44
-    ,"Comment":"DR 2 vs. energy and fire dmg."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Battle armor, Light Powered"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"4"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"6500"
-    ,"Upgeade slots":2
-    ,"Weight":"12"
-    ,"Books":"K"
-    ,"Page":70
-    ,"Comment":""
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Battle armor, Light"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"5"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"3500"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"K"
-    ,"Page":70
-    ,"Comment":""
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Beskar'gam, Light"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"5"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"33500"
-    ,"Upgeade slots":2
-    ,"Weight":"10"
-    ,"Books":"SV"
-    ,"Page":48
-    ,"Comment":"Rare. Favorable circumstances on Persuasion checks to intimidate. If personal DR can apply against atks made by lightsabers."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Blast helmet and vest"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"2"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"5"
-    ,"ACP":-2
-    ,"Cost":"500"
-    ,"Upgeade slots":1
-    ,"Weight":"3"
-    ,"Books":"CR"
-    ,"Page":132
-    ,"Comment":""
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Blast Jacket"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"2"
-    ,"Fort Bonus":"1"
-    ,"Max Dex":"4"
-    ,"ACP":-2
-    ,"Cost":""
-    ,"Upgeade slots":1
-    ,"Weight":""
-    ,"Books":"K"
-    ,"Page":179
-    ,"Comment":""
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Clone Trooper armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"6"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"8000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"CR"
-    ,"Page":281
-    ,"Comment":"Rare. Built-In Helmet package."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Combat Jumpsuit"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"4"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"4"
-    ,"ACP":-2
-    ,"Cost":"1500"
-    ,"Upgeade slots":1
-    ,"Weight":"8"
-    ,"Books":"CR"
-    ,"Page":133
-    ,"Comment":""
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Commando Armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"5"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"4000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"T"
-    ,"Page":22
-    ,"Comment":"Built-In Vacuum seals."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Coruscant Guard armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"6"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"8000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"F"
-    ,"Page":178
-    ,"Comment":"Rare. Built-In Helmet package."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Dark armor, Light"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"4"
-    ,"Fort Bonus":"3"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"10000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"J"
-    ,"Page":61
-    ,"Comment":"Rare. Comes with a single enhancement from the Sith Alchemist talent (J22)"
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Darth Vader's armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"8"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"4000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"CR"
-    ,"Page":262
-    ,"Comment":"Built-In Helmet package, Vacuum seals."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Droid, Durasteel Plating"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"6"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"3600"
-    ,"Upgeade slots":1
-    ,"Weight":"12"
-    ,"Books":"CR"
-    ,"Page":196
-    ,"Comment":"x Cost Factor. Droid with Built-In armor takes no penalty to its speed."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Droid, Durasteel Shell"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"4"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"4"
-    ,"ACP":-2
-    ,"Cost":"1600"
-    ,"Upgeade slots":1
-    ,"Weight":"8"
-    ,"Books":"CR"
-    ,"Page":196
-    ,"Comment":"x Cost Factor. Droid with Built-In armor takes no penalty to its speed."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Droid, Duravlex Shell"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"4"
-    ,"Fort Bonus":""
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"1000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"SGD"
-    ,"Page":54
-    ,"Comment":"x Cost Factor. Droid with Built-In armor takes no penalty to its speed. Grants +10 to Fort Def to resist fire and extreme heat."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Droid, Laminanium Plating"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"4"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"3000"
-    ,"Upgeade slots":1
-    ,"Weight":"15x"
-    ,"Books":"SGD"
-    ,"Page":54
-    ,"Comment":"x Cost Factor. Droid with Built-In armor takes no penalty to its speed."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Droid, Plasteel Shell"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"2"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"5"
-    ,"ACP":-2
-    ,"Cost":"400"
-    ,"Upgeade slots":1
-    ,"Weight":"2x"
-    ,"Books":"CR"
-    ,"Page":196
-    ,"Comment":"x Cost Factor. Droid with Built-In armor takes no penalty to its speed."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Droid, Quadanium Plating"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"5"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"2500"
-    ,"Upgeade slots":1
-    ,"Weight":"10x"
-    ,"Books":"CR"
-    ,"Page":196
-    ,"Comment":"x Cost Factor. Droid with Built-In armor takes no penalty to its speed."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Droid, Quadanium Shell"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"3"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"4"
-    ,"ACP":-2
-    ,"Cost":"900"
-    ,"Upgeade slots":1
-    ,"Weight":"3x"
-    ,"Books":"CR"
-    ,"Page":196
-    ,"Comment":"x Cost Factor. Droid with Built-In armor takes no penalty to its speed."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Energy shields, Light SR 5"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"-"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"4"
-    ,"ACP":-2
-    ,"Cost":"500"
-    ,"Upgeade slots":1
-    ,"Weight":"1"
-    ,"Books":"K"
-    ,"Page":71
-    ,"Comment":"5 charges. 1/Encounter activate as a Sw Action. Protects against energy dmg. Takes ACP even if proficient only when activated. If not proficient also take -5 on Ref Def and denied Dex bonus to Ref Def only when penalty.activated. Energy shields does not suffer movement"
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Energy shields, Light SR 10"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"-"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"4"
-    ,"ACP":-2
-    ,"Cost":"2000"
-    ,"Upgeade slots":1
-    ,"Weight":"1"
-    ,"Books":"K"
-    ,"Page":71
-    ,"Comment":"5 charges. 1/Encounter activate as a Sw Action. Protects against energy dmg. Takes ACP even if proficient only when activated. If not proficient also take -5 on Ref Def and denied Dex bonus to Ref Def only when penalty.activated. Energy shields does not suffer movement"
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":""
-    ,"Armor type":""
-    ,"Ref bonus":""
-    ,"Fort Bonus":""
-    ,"Max Dex":""
-    ,"ACP":null
-    ,"Cost":""
-    ,"Upgeade slots":null
-    ,"Weight":""
-    ,"Books":""
-    ,"Page":null
-    ,"Comment":""
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"EVO Trooper armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"6"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"8000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"F"
-    ,"Page":179
-    ,"Comment":"Rare. Built-In Helmet package. =+10 Fort Def vs. airborne poisons."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Fiber armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"4"
-    ,"Fort Bonus":"1"
-    ,"Max Dex":"2"
-    ,"ACP":-2
-    ,"Cost":"3000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"K"
-    ,"Page":72
-    ,"Comment":"Reaction. 1/Encounter. When fighting defensively gain DR10 vs. one single ranged energy atk."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Flight Suit, Armored"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"5"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"4000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"CR"
-    ,"Page":133
-    ,"Comment":"Built-In Vacuum seals."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Flight Suit, Padded"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"3"
-    ,"Fort Bonus":"1"
-    ,"Max Dex":"4"
-    ,"ACP":-2
-    ,"Cost":"2000"
-    ,"Upgeade slots":1
-    ,"Weight":"5"
-    ,"Books":"CR"
-    ,"Page":133
-    ,"Comment":"Built-In Vacuum seals."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Galactic Alliance Armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"4"
-    ,"Fort Bonus":"1"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"6000"
-    ,"Upgeade slots":1
-    ,"Weight":"9"
-    ,"Books":"L"
-    ,"Page":140
-    ,"Comment":"Possible Built-In Helmet package depending on unit."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Galactic Alliance Armor, Fleet Crew"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"2"
-    ,"Fort Bonus":""
-    ,"Max Dex":"5"
-    ,"ACP":-2
-    ,"Cost":"500"
-    ,"Upgeade slots":1
-    ,"Weight":"3"
-    ,"Books":"L"
-    ,"Page":140
-    ,"Comment":""
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Geonosian Warrior Tunic"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"4"
-    ,"Fort Bonus":""
-    ,"Max Dex":"4"
-    ,"ACP":-2
-    ,"Cost":"1500"
-    ,"Upgeade slots":1
-    ,"Weight":"8"
-    ,"Books":"C"
-    ,"Page":182
-    ,"Comment":""
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Half-vest"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"1"
-    ,"Fort Bonus":""
-    ,"Max Dex":"5"
-    ,"ACP":-2
-    ,"Cost":"250"
-    ,"Upgeade slots":1
-    ,"Weight":"2"
-    ,"Books":"SV"
-    ,"Page":49
-    ,"Comment":"1/Encounter, F Action can negate bonus dmg on any atk while he is denied his Dex bonus to Ref Def. +5 on Stealth checks to conceal the armor."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Jedi battle armor, Light"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"3"
-    ,"Fort Bonus":"3"
-    ,"Max Dex":"4"
-    ,"ACP":-2
-    ,"Cost":"4000"
-    ,"Upgeade slots":1
-    ,"Weight":"6"
-    ,"Books":"J"
-    ,"Page":62
-    ,"Comment":"Rare."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Jumptrooper armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"6"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"8000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"F"
-    ,"Page":180
-    ,"Comment":"Rare. Built-In Helmet package."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Krath armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"5"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"3500"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"K"
-    ,"Page":219
-    ,"Comment":""
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Krath Battle armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"5"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"4000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"K"
-    ,"Page":219
-    ,"Comment":"Built-In Vacuum seals."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Light Combat armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"5"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"4000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"F"
-    ,"Page":217
-    ,"Comment":"Built-In Vacuum seals."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Mandalorian Combat Suit"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"4"
-    ,"Fort Bonus":"1"
-    ,"Max Dex":"5"
-    ,"ACP":-2
-    ,"Cost":""
-    ,"Upgeade slots":2
-    ,"Weight":"8"
-    ,"Books":"K"
-    ,"Page":201
-    ,"Comment":"Rare. Built-In Helmet package, Vacuum seals and Jet pack."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Mandalorian Neo-Crusader Light armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"6"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":""
-    ,"Upgeade slots":2
-    ,"Weight":"42"
-    ,"Books":"K"
-    ,"Page":201
-    ,"Comment":"Rare. Built-In Helmet package, Vacuum seals and Jet pack."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Marine armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"5"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"5000"
-    ,"Upgeade slots":1
-    ,"Weight":"12"
-    ,"Books":"GW"
-    ,"Page":45
-    ,"Comment":"Built-In Improved Vacuum seals, Aquatic Adaptation, Magnetic soled (-2sq spd when"
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Merr-Sonn KZZ Riot armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"2"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"5"
-    ,"ACP":-2
-    ,"Cost":"2500"
-    ,"Upgeade slots":1
-    ,"Weight":"6"
-    ,"Books":"R"
-    ,"Page":51
-    ,"Comment":""
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Phase Zero"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"6"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"8000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"F"
-    ,"Page":177
-    ,"Comment":"Rare. Built-In Helmet package."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Radtrooper armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"6"
-    ,"Fort Bonus":"4"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"8000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"F"
-    ,"Page":180
-    ,"Comment":"Rare. Built-In Helmet package."
-    ,"FIELD13":"#ERROR!"
-  },
-  {
-     "Armor name":"Republic Light armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"4"
-    ,"Fort Bonus":"1"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":""
-    ,"Upgeade slots":0
-    ,"Weight":"7"
-    ,"Books":"K"
-    ,"Page":179
-    ,"Comment":"Built-In Comlink if wearer has AP (Light) feat. Can not be upgraded."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Sandtrooper armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"6"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"18000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"CR"
-    ,"Page":133
-    ,"Comment":"Rare. Built-In Helmet package. Immune to effects of extreme heat."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Scout Trooper armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"4"
-    ,"Fort Bonus":""
-    ,"Max Dex":"4"
-    ,"ACP":-2
-    ,"Cost":"1500"
-    ,"Upgeade slots":1
-    ,"Weight":"8"
-    ,"Books":"CR"
-    ,"Page":280
-    ,"Comment":"Built-In Helmet package."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Seatrooper Armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"4"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"2"
-    ,"ACP":-2
-    ,"Cost":"6750"
-    ,"Upgeade slots":1
-    ,"Weight":"14"
-    ,"Books":"R"
-    ,"Page":126
-    ,"Comment":"Built-In Helmet package. Pressure-sealed to 10 atmospheres (220m) Swim +2."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Shadowsuit"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"1"
-    ,"Fort Bonus":"1"
-    ,"Max Dex":"5"
-    ,"ACP":-2
-    ,"Cost":"600"
-    ,"Upgeade slots":null
-    ,"Weight":"2"
-    ,"Books":"SV"
-    ,"Page":49
-    ,"Comment":"Can be worn beneath clothing or other armor. +5 to Stealth whenever wearer has concealment from darkness or low-light conditions. Also in C54."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Shield Gauntlet"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":""
-    ,"Fort Bonus":""
-    ,"Max Dex":""
-    ,"ACP":-2
-    ,"Cost":"1500"
-    ,"Upgeade slots":1
-    ,"Weight":"1"
-    ,"Books":"R"
-    ,"Page":51
-    ,"Comment":"Rare. Can be worn even with other armor but can not wear any items in the hand using it. Kilian Rangers can use it to deflect ranged atks. Requires an energy cell to operate."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Sith Trooper Armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"6"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"8000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"K"
-    ,"Page":147
-    ,"Comment":"Rare. Built-In Helmet package."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Skakoan Light Pressure Suit"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"5"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"4000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"W"
-    ,"Page":null
-    ,"Comment":"Built-In Vacuum seals. Provides everything a Skakoan needs to survive indefinitely in an atmosphere. If Purchased anywhere besides Skako x2 price. atmosphere. If Purchased anywhere besides Skako x2 price. Speed is reduced to 4sq/2sq (6sq/4sq base)."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Snowtrooper armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"6"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"18000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"CR"
-    ,"Page":133
-    ,"Comment":"Rare. Built-In Helmet package. Immune to effects of extreme cold."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"SpecForce Armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"5"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"4000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"T"
-    ,"Page":95
-    ,"Comment":"Built-In Vacuum seals."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Storm Commando armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"4"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"4"
-    ,"ACP":-2
-    ,"Cost":""
-    ,"Upgeade slots":1
-    ,"Weight":"8"
-    ,"Books":"R"
-    ,"Page":123
-    ,"Comment":"Built-In Helmet package, Shadowskin."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Stormtrooper armor"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"6"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":"8000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"CR"
-    ,"Page":133
-    ,"Comment":"Rare. Built-In Helmet package."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Stormtrooper armor, Reinforced"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"7"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":""
-    ,"Upgeade slots":1
-    ,"Weight":"13"
-    ,"Books":"R"
-    ,"Page":122
-    ,"Comment":"Rare. Built-In Helmet package."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Stormtrooper, Stygian-Triprismatic"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"7"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-2
-    ,"Cost":""
-    ,"Upgeade slots":1
-    ,"Weight":"13"
-    ,"Books":"R"
-    ,"Page":121
-    ,"Comment":"Rare. Stygian-Triprismatic Polymer Template. Built-In Helmet package."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Stun Cloak"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"1"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"5"
-    ,"ACP":-2
-    ,"Cost":"3500"
-    ,"Upgeade slots":0
-    ,"Weight":"2"
-    ,"Books":"GW"
-    ,"Page":45
-    ,"Comment":"Successful grapple or if grappled, cloak deals 3d8 stun dmg. For 2x price it also works as a all-temperature cloak or Camouflage poncho."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Thinsuit"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"-"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"6"
-    ,"ACP":-2
-    ,"Cost":"900"
-    ,"Upgeade slots":1
-    ,"Weight":"1"
-    ,"Books":"C"
-    ,"Page":64
-    ,"Comment":"Can be worn beneath clothing or other armor. Breath mask 1h air. +5 Fort Def and only half/no dmg vs. extreme temperatures."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Tracker Utility vest"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"1"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"5"
-    ,"ACP":-2
-    ,"Cost":"300"
-    ,"Upgeade slots":1
-    ,"Weight":"0,5"
-    ,"Books":"C"
-    ,"Page":64
-    ,"Comment":"24 Pouches (up to 1kg each) cumulative weight is halved."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Ubese Environmental Suit (Ubese)"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"4"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"4"
-    ,"ACP":-2
-    ,"Cost":"2000"
-    ,"Upgeade slots":1
-    ,"Weight":"8"
-    ,"Books":"SV"
-    ,"Page":13
-    ,"Comment":"Built-In breath mask and voice modulator. 1 years supply of breathing filers costs 200cr (50cr on Ubese). Ubese begin with this item at no cost."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"WJ-880 blinding helmet"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"0"
-    ,"Fort Bonus":"0"
-    ,"Max Dex":"-"
-    ,"ACP":-2
-    ,"Cost":"200"
-    ,"Upgeade slots":1
-    ,"Weight":"2"
-    ,"Books":"J"
-    ,"Page":63
-    ,"Comment":"Rare. All targets have total concealment from wearer."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Vonduun Crabshell"
-    ,"Armor type":"Light Armor"
-    ,"Ref bonus":"5"
-    ,"Fort Bonus":"5"
-    ,"Max Dex":"4"
-    ,"ACP":-2
-    ,"Cost":"-"
-    ,"Upgeade slots":1
-    ,"Weight":"5"
-    ,"Books":"CR"
-    ,"Page":133
-    ,"Comment":"Rare."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":""
-    ,"Armor type":""
-    ,"Ref bonus":""
-    ,"Fort Bonus":""
-    ,"Max Dex":""
-    ,"ACP":null
-    ,"Cost":""
-    ,"Upgeade slots":null
-    ,"Weight":""
-    ,"Books":""
-    ,"Page":null
-    ,"Comment":""
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Battle armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"8"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"2"
-    ,"ACP":-5
-    ,"Cost":"7000"
-    ,"Upgeade slots":1
-    ,"Weight":"16"
-    ,"Books":"CR"
-    ,"Page":132
-    ,"Comment":""
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Battle armor, Powered"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"7"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"2"
-    ,"ACP":-5
-    ,"Cost":"11000"
-    ,"Upgeade slots":2
-    ,"Weight":"17"
-    ,"Books":"K"
-    ,"Page":71
-    ,"Comment":"Built-In Helmet package."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Beskar'gam, Medium"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"8"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"2"
-    ,"ACP":-5
-    ,"Cost":"37000"
-    ,"Upgeade slots":2
-    ,"Weight":"17"
-    ,"Books":"SV"
-    ,"Page":48
-    ,"Comment":"Rare. Favorable circumstances on Persuasion checks to intimidate. If personal DR can apply against atks made by lightsabers."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Biohazard Suit"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"-"
-    ,"Fort Bonus":"3"
-    ,"Max Dex":"-"
-    ,"ACP":-5
-    ,"Cost":"4000"
-    ,"Upgeade slots":1
-    ,"Weight":"9"
-    ,"Books":"GW"
-    ,"Page":44
-    ,"Comment":"Immunity to all atmospheric or inhaled poisons and diseases. 1 hour breathable atmosphere before filter and atmosphere canister must be replaced."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Boba Fett's Mandalorian Armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"9"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"2"
-    ,"ACP":-5
-    ,"Cost":""
-    ,"Upgeade slots":2
-    ,"Weight":"18"
-    ,"Books":"L"
-    ,"Page":98
-    ,"Comment":"Rare. Built-In Helmet package, Vacuum seals and Jet pack."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Camo armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"5"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"3"
-    ,"ACP":-5
-    ,"Cost":"6000"
-    ,"Upgeade slots":1
-    ,"Weight":"6"
-    ,"Books":"C"
-    ,"Page":64
-    ,"Comment":"Match wearers surroundings. Grants +10 to Stealth checks."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Camo Scout armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"6"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-5
-    ,"Cost":"6000"
-    ,"Upgeade slots":1
-    ,"Weight":"13"
-    ,"Books":"GW"
-    ,"Page":44
-    ,"Comment":"Built-In Shadowskin upgrade."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Ceremonial armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"7"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"2"
-    ,"ACP":-5
-    ,"Cost":"5000"
-    ,"Upgeade slots":1
-    ,"Weight":"13"
-    ,"Books":"CR"
-    ,"Page":132
-    ,"Comment":""
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Corellian Powersuit"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"7"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"3"
-    ,"ACP":-5
-    ,"Cost":"10000"
-    ,"Upgeade slots":2
-    ,"Weight":"20"
-    ,"Books":"CR"
-    ,"Page":133
-    ,"Comment":"Str +2 if wearer has AP (Medium) feat."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Cortosis Gauntlet"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":""
-    ,"Fort Bonus":""
-    ,"Max Dex":""
-    ,"ACP":-5
-    ,"Cost":"1500"
-    ,"Upgeade slots":1
-    ,"Weight":"1"
-    ,"Books":"L"
-    ,"Page":183
-    ,"Comment":"Rare. Cortosis weave template. If wearer readies an action to block a lightsaber atk, atk roll (unarmed melee atk roll) vs. Lightsabers atk roll, if success deactivate lightsaber for 2min (20 rounds) Atk still suffer movement penalty.deals normal dmg before lightsaber is deactivated. Does not"
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Dark armor, Medium"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"7"
-    ,"Fort Bonus":"4"
-    ,"Max Dex":"2"
-    ,"ACP":-5
-    ,"Cost":"15000"
-    ,"Upgeade slots":1
-    ,"Weight":"16"
-    ,"Books":"J"
-    ,"Page":61
-    ,"Comment":"Rare. Comes with a single enhancement from the Sith Alchemist talent (J22)"
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Droid, Duranium Plating"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"8"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"2"
-    ,"ACP":-5
-    ,"Cost":"6400x"
-    ,"Upgeade slots":1
-    ,"Weight":"16x"
-    ,"Books":"CR"
-    ,"Page":196
-    ,"Comment":"x Cost Factor. Droid with Built-In armor takes no penalty to its speed."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Droid, Durasteel Battle Armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"8"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"3"
-    ,"ACP":-5
-    ,"Cost":"9600x"
-    ,"Upgeade slots":1
-    ,"Weight":"8x"
-    ,"Books":"CR"
-    ,"Page":196
-    ,"Comment":"x Cost Factor. Droid with Built-In armor takes no penalty to its speed."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Droid, Quadanium Battle Armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"7"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"3"
-    ,"ACP":-5
-    ,"Cost":"4900x"
-    ,"Upgeade slots":1
-    ,"Weight":"7x"
-    ,"Books":"CR"
-    ,"Page":196
-    ,"Comment":"x Cost Factor. Droid with Built-In armor takes no penalty to its speed. Medium SR 15"
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Energy shields, Medium SR 15"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"-"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"3"
-    ,"ACP":-5
-    ,"Cost":"4500"
-    ,"Upgeade slots":1
-    ,"Weight":"1"
-    ,"Books":"K"
-    ,"Page":71
-    ,"Comment":"5 charges. 1/Encounter activate as a Sw Action. Protects against energy dmg. Takes ACP even if proficient only when activated. If not proficient also take -5 on Ref Def and denied Dex bonus to Ref Def only when penalty.activated. Energy shields does not suffer movement"
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Energy shields, Medium SR 20"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"-"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"3"
-    ,"ACP":-5
-    ,"Cost":"8000"
-    ,"Upgeade slots":1
-    ,"Weight":"1"
-    ,"Books":"K"
-    ,"Page":71
-    ,"Comment":"5 charges. 1/Encounter activate as a Sw Action. Protects against energy dmg. Takes ACP even if proficient only when activated. If not proficient also take -5 on Ref Def and denied Dex bonus to Ref Def only when penalty.activated. Energy shields does not suffer movement"
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"GTU AV-1S Scout armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"7"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"2"
-    ,"ACP":-5
-    ,"Cost":"15000"
-    ,"Upgeade slots":2
-    ,"Weight":"18"
-    ,"Books":"SV"
-    ,"Page":48
-    ,"Comment":"Built-In Helmet package, Vacuum seals, Glowrod, Repulsorlift system that replicates a jetpack but produces no noise, heat or flame and 4sq movement."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Imperial Knight armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"8"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-5
-    ,"Cost":"7000"
-    ,"Upgeade slots":1
-    ,"Weight":"16"
-    ,"Books":"L"
-    ,"Page":183
-    ,"Comment":"Rare. Philk alloy template."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Jedi battle armor, Medium"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"5"
-    ,"Fort Bonus":"5"
-    ,"Max Dex":"3"
-    ,"ACP":-5
-    ,"Cost":"6000"
-    ,"Upgeade slots":1
-    ,"Weight":"12"
-    ,"Books":"J"
-    ,"Page":62
-    ,"Comment":"Rare."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Katarn-class Commando armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"9"
-    ,"Fort Bonus":"4"
-    ,"Max Dex":"1"
-    ,"ACP":-5
-    ,"Cost":"30000"
-    ,"Upgeade slots":3
-    ,"Weight":"20"
-    ,"Books":"GW"
-    ,"Page":44
-    ,"Comment":"Built-In Helmet package. Improved Vacuum seals, Vibroblade, Bacta. FR Action to use bacta grants +10 on Treat Injury for self treatment."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Knighthunter armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"7"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-5
-    ,"Cost":"6000"
-    ,"Upgeade slots":1
-    ,"Weight":"13"
-    ,"Books":"L"
-    ,"Page":183
-    ,"Comment":"Built-In Helmet package. +5 to Will Def vs. UtF checks."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Krail 210 Personal armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"7"
-    ,"Fort Bonus":"1"
-    ,"Max Dex":"3"
-    ,"ACP":-5
-    ,"Cost":"16300"
-    ,"Upgeade slots":2
-    ,"Weight":"17"
-    ,"Books":"SV"
-    ,"Page":49
-    ,"Comment":"Built-In Helmet package, Vacuum seals, Jet pack, liquid cable dispenser. =+2 to Str checks made to lift, drag or pull an object."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Mandalorian Neo-Crusader Battle armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"8"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"2"
-    ,"ACP":-5
-    ,"Cost":""
-    ,"Upgeade slots":2
-    ,"Weight":"18"
-    ,"Books":"K"
-    ,"Page":202
-    ,"Comment":"Rare. Built-In Helmet package, Vacuum seals and Jet pack."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Mesh armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"6"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"2"
-    ,"ACP":-5
-    ,"Cost":"6000"
-    ,"Upgeade slots":1
-    ,"Weight":"13"
-    ,"Books":"K"
-    ,"Page":72
-    ,"Comment":"Reaction. 1/Encounter. When fighting defensively gain DR20 vs. one single ranged energy atk."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Republic Combat armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"6"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"2"
-    ,"ACP":-5
-    ,"Cost":""
-    ,"Upgeade slots":1
-    ,"Weight":"14"
-    ,"Books":"K"
-    ,"Page":179
-    ,"Comment":"Built-In Comlink and Low-light vision if wearer has AP (Medium) feat."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Royal Guard armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"7"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"2"
-    ,"ACP":-5
-    ,"Cost":"5000"
-    ,"Upgeade slots":1
-    ,"Weight":"13"
-    ,"Books":"F"
-    ,"Page":174
-    ,"Comment":"Built-In Helmet package."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Shadow Guard armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"7"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"2"
-    ,"ACP":-5
-    ,"Cost":"5000"
-    ,"Upgeade slots":1
-    ,"Weight":"13"
-    ,"Books":"F"
-    ,"Page":175
-    ,"Comment":"Built-In Helmet package."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Sith Battle Suit"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"7"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"2"
-    ,"ACP":-5
-    ,"Cost":""
-    ,"Upgeade slots":1
-    ,"Weight":""
-    ,"Books":"K"
-    ,"Page":149
-    ,"Comment":""
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Skakoan Medium Pressure Suit"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"8"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"2"
-    ,"ACP":-5
-    ,"Cost":"7000"
-    ,"Upgeade slots":1
-    ,"Weight":"16"
-    ,"Books":"W"
-    ,"Page":null
-    ,"Comment":"Provides everything a Skakoan needs to survive indefinitely in an atmosphere. If Purchased anywhere besides Skako x2 price. Speed is reduced to 3sq/2sq (6sq/4sq base)."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Stalker armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"7"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"3"
-    ,"ACP":-5
-    ,"Cost":"7500"
-    ,"Upgeade slots":3
-    ,"Weight":"10"
-    ,"Books":"GW"
-    ,"Page":45
-    ,"Comment":"Immediately identifies wearer as bounty hunter."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Weave armor"
-    ,"Armor type":"Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"6"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"3"
-    ,"ACP":-5
-    ,"Cost":"5000"
-    ,"Upgeade slots":1
-    ,"Weight":"15"
-    ,"Books":"K"
-    ,"Page":72
-    ,"Comment":""
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":""
-    ,"Armor type":""
-    ,"Ref bonus":""
-    ,"Fort Bonus":""
-    ,"Max Dex":""
-    ,"ACP":null
-    ,"Cost":""
-    ,"Upgeade slots":null
-    ,"Weight":""
-    ,"Books":""
-    ,"Page":null
-    ,"Comment":""
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Armored Spacesuit"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"9"
-    ,"Fort Bonus":"3"
-    ,"Max Dex":"1"
-    ,"ACP":-10
-    ,"Cost":"12000"
-    ,"Upgeade slots":1
-    ,"Weight":"35"
-    ,"Books":"CR"
-    ,"Page":132
-    ,"Comment":"Built-In Improved Vacuum seals."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Battle armor, Heavy Powered"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"9"
-    ,"Fort Bonus":"4"
-    ,"Max Dex":"1"
-    ,"ACP":-10
-    ,"Cost":"19000"
-    ,"Upgeade slots":2
-    ,"Weight":"32"
-    ,"Books":"K"
-    ,"Page":71
-    ,"Comment":"Built-In Helmet package."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Battle armor, Heavy"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"10"
-    ,"Fort Bonus":"4"
-    ,"Max Dex":"1"
-    ,"ACP":-10
-    ,"Cost":"15000"
-    ,"Upgeade slots":1
-    ,"Weight":"30"
-    ,"Books":"CR"
-    ,"Page":132
-    ,"Comment":""
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Beskar'gam, Heavy"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"10"
-    ,"Fort Bonus":"4"
-    ,"Max Dex":"1"
-    ,"ACP":-10
-    ,"Cost":"45000"
-    ,"Upgeade slots":2
-    ,"Weight":"32"
-    ,"Books":"SV"
-    ,"Page":48
-    ,"Comment":"Rare. Favorable circumstances on Persuasion checks to intimidate. If personal DR can apply against atks made by lightsabers."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Clone Trooper Fire-resistant armor"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"9"
-    ,"Fort Bonus":"6"
-    ,"Max Dex":"0"
-    ,"ACP":-10
-    ,"Cost":""
-    ,"Upgeade slots":1
-    ,"Weight":"65"
-    ,"Books":"C"
-    ,"Page":149
-    ,"Comment":"Built-In Helmet package. DR 5 vs. fire."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Dark armor, Heavy"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"8"
-    ,"Fort Bonus":"5"
-    ,"Max Dex":"1"
-    ,"ACP":-10
-    ,"Cost":"25000"
-    ,"Upgeade slots":1
-    ,"Weight":"30"
-    ,"Books":"J"
-    ,"Page":61
-    ,"Comment":"Rare. Comes with a single enhancement from the Sith Alchemist talent (J22)"
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Droid, Crystadurium Plating"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"10"
-    ,"Fort Bonus":""
-    ,"Max Dex":"2"
-    ,"ACP":-10
-    ,"Cost":"50000"
-    ,"Upgeade slots":1
-    ,"Weight":"30"
-    ,"Books":"SGD"
-    ,"Page":54
-    ,"Comment":"x Cost Factor. Droid with Built-In armor takes no penalty to its speed. When running can only move up to 3 times speed (normal 4 times) Reduce dmg from blaster atks by 1 point per die of dmg."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Droid, Duranium Battle Armor"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"10"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"2"
-    ,"ACP":-10
-    ,"Cost":"10000"
-    ,"Upgeade slots":1
-    ,"Weight":"10"
-    ,"Books":"CR"
-    ,"Page":196
-    ,"Comment":"x Cost Factor. Droid with Built-In armor takes no penalty to its speed. When running can only move up to 3 times speed (normal 4 times)"
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Droid, Laminanium Plating"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"12"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"2"
-    ,"ACP":-10
-    ,"Cost":"20000"
-    ,"Upgeade slots":1
-    ,"Weight":"15"
-    ,"Books":"SGD"
-    ,"Page":54
-    ,"Comment":"x Cost Factor. Droid with Built-In armor takes no penalty to its speed."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Droid, Mandalorian Steel Shell"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"9"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"3"
-    ,"ACP":-10
-    ,"Cost":"8100"
-    ,"Upgeade slots":1
-    ,"Weight":"9"
-    ,"Books":"CR"
-    ,"Page":196
-    ,"Comment":"Rare. x Cost Factor. Droid with Built-In armor takes no penalty to its speed. When running can only move up to 3 times speed (normal 4 times)"
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Droid, Neutronium Plating"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"11"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"1"
-    ,"ACP":-10
-    ,"Cost":"12100"
-    ,"Upgeade slots":1
-    ,"Weight":"20"
-    ,"Books":"CR"
-    ,"Page":196
-    ,"Comment":"x Cost Factor. Droid with Built-In armor takes no penalty to its speed. When running can only move up to 3 times speed (normal 4 times)"
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Energy shields, Heavy SR 25"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"-"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"2"
-    ,"ACP":-10
-    ,"Cost":"12500"
-    ,"Upgeade slots":1
-    ,"Weight":"1"
-    ,"Books":"K"
-    ,"Page":71
-    ,"Comment":"5 charges. 1/Encounter activate as a Sw Action. Protects against energy dmg. Takes ACP even if proficient only when activated. If not proficient also take -5 on Ref Def and denied Dex bonus to Ref Def only when penalty.activated. Energy shields does not suffer movement"
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Energy shields, Heavy SR 30"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"-"
-    ,"Fort Bonus":"-"
-    ,"Max Dex":"2"
-    ,"ACP":-10
-    ,"Cost":"18000"
-    ,"Upgeade slots":1
-    ,"Weight":"1"
-    ,"Books":"K"
-    ,"Page":71
-    ,"Comment":"5 charges. 1/Encounter activate as a Sw Action. Protects against energy dmg. Takes ACP even if proficient only when activated. If not proficient also take -5 on Ref Def and denied Dex bonus to Ref Def only when penalty.activated. Energy shields does not suffer movement"
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"GTU AV-1C Combat armor"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"9"
-    ,"Fort Bonus":"4"
-    ,"Max Dex":"1"
-    ,"ACP":-10
-    ,"Cost":"25000"
-    ,"Upgeade slots":2
-    ,"Weight":"25"
-    ,"Books":"SV"
-    ,"Page":48
-    ,"Comment":"Rare. Built-In Helmet package, Vacuum seals, Repulsorlift system that replicates a jetpack but produces no noise, heat or flame."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Heavy Dungeoneer armor"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"10"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"1"
-    ,"ACP":-10
-    ,"Cost":"15000"
-    ,"Upgeade slots":1
-    ,"Weight":"30"
-    ,"Books":"F"
-    ,"Page":183
-    ,"Comment":"Built-In Helmet package, Audio and Video recorder."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Mandalorian Neo-Crusader Assault armor"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"10"
-    ,"Fort Bonus":"4"
-    ,"Max Dex":"1"
-    ,"ACP":-10
-    ,"Cost":""
-    ,"Upgeade slots":2
-    ,"Weight":"65"
-    ,"Books":"K"
-    ,"Page":202
-    ,"Comment":"Rare. Built-In Helmet package, Improved Vacuum seals and Jet pack with a max fly speed of 4sq per turn."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Matrix armor"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"9"
-    ,"Fort Bonus":"3"
-    ,"Max Dex":"1"
-    ,"ACP":-10
-    ,"Cost":"9000"
-    ,"Upgeade slots":1
-    ,"Weight":"25"
-    ,"Books":"K"
-    ,"Page":72
-    ,"Comment":"Reaction. 1/Encounter. When fighting defensively gain DR30 vs. one single ranged energy atk."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Orbalisk armor"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"10"
-    ,"Fort Bonus":"2"
-    ,"Max Dex":"1"
-    ,"ACP":-10
-    ,"Cost":"-"
-    ,"Upgeade slots":1
-    ,"Weight":"26"
-    ,"Books":"J"
-    ,"Page":62
-    ,"Comment":"Rare. Will kill wearer if not on the dark side. DR 10, Lightsabers do not ignore DR, Wearer does not take ACP for not having AP (Heavy)."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Phase II Dark Trooper armor"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"10"
-    ,"Fort Bonus":""
-    ,"Max Dex":""
-    ,"ACP":-10
-    ,"Cost":""
-    ,"Upgeade slots":1
-    ,"Weight":""
-    ,"Books":"R"
-    ,"Page":128
-    ,"Comment":"Str +3, Perception +2."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Phase III Dark Trooper armor"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"12"
-    ,"Fort Bonus":""
-    ,"Max Dex":""
-    ,"ACP":-10
-    ,"Cost":""
-    ,"Upgeade slots":1
-    ,"Weight":""
-    ,"Books":"R"
-    ,"Page":128
-    ,"Comment":"Str +4, Perception +2."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Republic Heavy armor"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"8"
-    ,"Fort Bonus":"3"
-    ,"Max Dex":"1"
-    ,"ACP":-10
-    ,"Cost":""
-    ,"Upgeade slots":1
-    ,"Weight":"26"
-    ,"Books":"K"
-    ,"Page":179
-    ,"Comment":"Built-In Improved Vacuum seals. Also if wearer has AP (Heavy) feat Comlink and Low-light vision. -2 dmg vs. Energy atks."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Skakoan Heavy Pressure Suit"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"9"
-    ,"Fort Bonus":"3"
-    ,"Max Dex":"1"
-    ,"ACP":-10
-    ,"Cost":"12000"
-    ,"Upgeade slots":1
-    ,"Weight":"35"
-    ,"Books":"W"
-    ,"Page":null
-    ,"Comment":"Built-In Improved Vacuum seals. Provides everything a Skakoan needs to survive indefinitely in an atmosphere. If Purchased anywhere besides Skako x2 price. Speed is reduced to 3sq/2sq (6sq/4sq base)."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Vacuum Pod"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"4"
-    ,"Fort Bonus":"1"
-    ,"Max Dex":"0"
-    ,"ACP":-10
-    ,"Cost":"15000"
-    ,"Upgeade slots":2
-    ,"Weight":"35"
-    ,"Books":"C"
-    ,"Page":64
-    ,"Comment":"Fly 6sq in Z-g. Built-in Comlink, 2h life support, Lamp 70sq cone, Repair kit +2 on Mechanics, +4 Str. Takes 10min to put on, 3 turns to remove."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Venom Assault armor"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"10"
-    ,"Fort Bonus":"4"
-    ,"Max Dex":"1"
-    ,"ACP":-10
-    ,"Cost":"17000"
-    ,"Upgeade slots":1
-    ,"Weight":"38"
-    ,"Books":"L"
-    ,"Page":140
-    ,"Comment":"Built-In Improved Vacuum seals. If wearer has AP (Heavy) also Jump jets (Sw action to activate) to move normal in Zero-G, +2 Str."
-    ,"FIELD13":""
-  },
-  {
-     "Armor name":"Zero-G Stormtrooper Armor"
-    ,"Armor type":"Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times)."
-    ,"Ref bonus":"9"
-    ,"Fort Bonus":"3"
-    ,"Max Dex":"0"
-    ,"ACP":-10
-    ,"Cost":"21000"
-    ,"Upgeade slots":1
-    ,"Weight":"38"
-    ,"Books":"R"
-    ,"Page":126
-    ,"Comment":"Built-In Shoulder-mounted grenade launcher (concussion, stun, gas grenades), Miniature"
-    ,"FIELD13":""
-  }]
+ {
+   "Armor name": "Flight Suit",
+   "Armor type": "Suites - Suite Counts as equipment and not armor",
+   "Ref bonus": "-",
+   "Fort Bonus": "1",
+   "Max Dex": "-",
+   "ACP": 0,
+   "Cost": "1000",
+   "Upgeade slots": null,
+   "Weight": "3",
+   "Books": "CR",
+   "Page": 137,
+   "Comment": "Built-In Vacuum seals."
+ },
+ {
+   "Armor name": "Space Suit",
+   "Armor type": "Suites - Suite Counts as equipment and not armor",
+   "Ref bonus": "-",
+   "Fort Bonus": "2",
+   "Max Dex": "-",
+   "ACP": 0,
+   "Cost": "2000",
+   "Upgeade slots": null,
+   "Weight": "15",
+   "Books": "CR",
+   "Page": 137,
+   "Comment": "Built-In Improved Vacuum seals."
+ },
+ {
+   "Armor name": "Shipsuit",
+   "Armor type": "Suites - Suite Counts as equipment and not armor",
+   "Ref bonus": "-",
+   "Fort Bonus": "-",
+   "Max Dex": "-",
+   "ACP": 0,
+   "Cost": "200",
+   "Upgeade slots": null,
+   "Weight": "1",
+   "Books": "UR",
+   "Page": 42,
+   "Comment": "Coverall made by tough synthmesh fabric. Enough pockets and pouches to carry 24 objects of Small size no more than 1kg each. Cumulative weight of the objects is halved when calculating wearers total carried weight. =+1 to Fort Def when resisting extreme temperatures."
+ },
+ {
+   "Armor name": "ARC Trooper armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "6",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "8000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "CR",
+   "Page": 282,
+   "Comment": "Rare. Built-In Helmet package."
+ },
+ {
+   "Armor name": "Barabel Microbe armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "2",
+   "Fort Bonus": "-",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "4000",
+   "Upgeade slots": 2,
+   "Weight": "6",
+   "Books": "GW",
+   "Page": 44,
+   "Comment": "DR 2 vs. energy and fire dmg."
+ },
+ {
+   "Armor name": "Battle armor, Light Powered",
+   "Armor type": "Light Armor",
+   "Ref bonus": "4",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "6500",
+   "Upgeade slots": 2,
+   "Weight": "12",
+   "Books": "K",
+   "Page": 70,
+   "Comment": ""
+ },
+ {
+   "Armor name": "Battle armor, Light",
+   "Armor type": "Light Armor",
+   "Ref bonus": "5",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "3500",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "K",
+   "Page": 70,
+   "Comment": ""
+ },
+ {
+   "Armor name": "Beskar'gam, Light",
+   "Armor type": "Light Armor",
+   "Ref bonus": "5",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "33500",
+   "Upgeade slots": 2,
+   "Weight": "10",
+   "Books": "SV",
+   "Page": 48,
+   "Comment": "Rare. Favorable circumstances on Persuasion checks to intimidate. If personal DR can apply against atks made by lightsabers."
+ },
+ {
+   "Armor name": "Blast helmet and vest",
+   "Armor type": "Light Armor",
+   "Ref bonus": "2",
+   "Fort Bonus": "-",
+   "Max Dex": "5",
+   "ACP": -2,
+   "Cost": "500",
+   "Upgeade slots": 1,
+   "Weight": "3",
+   "Books": "CR",
+   "Page": 132,
+   "Comment": ""
+ },
+ {
+   "Armor name": "Blast Jacket",
+   "Armor type": "Light Armor",
+   "Ref bonus": "2",
+   "Fort Bonus": "1",
+   "Max Dex": "4",
+   "ACP": -2,
+   "Cost": "",
+   "Upgeade slots": 1,
+   "Weight": "",
+   "Books": "K",
+   "Page": 179,
+   "Comment": ""
+ },
+ {
+   "Armor name": "Clone Trooper armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "6",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "8000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "CR",
+   "Page": 281,
+   "Comment": "Rare. Built-In Helmet package."
+ },
+ {
+   "Armor name": "Combat Jumpsuit",
+   "Armor type": "Light Armor",
+   "Ref bonus": "4",
+   "Fort Bonus": "-",
+   "Max Dex": "4",
+   "ACP": -2,
+   "Cost": "1500",
+   "Upgeade slots": 1,
+   "Weight": "8",
+   "Books": "CR",
+   "Page": 133,
+   "Comment": ""
+ },
+ {
+   "Armor name": "Commando Armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "5",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "4000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "T",
+   "Page": 22,
+   "Comment": "Built-In Vacuum seals."
+ },
+ {
+   "Armor name": "Coruscant Guard armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "6",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "8000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "F",
+   "Page": 178,
+   "Comment": "Rare. Built-In Helmet package."
+ },
+ {
+   "Armor name": "Dark armor, Light",
+   "Armor type": "Light Armor",
+   "Ref bonus": "4",
+   "Fort Bonus": "3",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "10000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "J",
+   "Page": 61,
+   "Comment": "Rare. Comes with a single enhancement from the Sith Alchemist talent (J22)"
+ },
+ {
+   "Armor name": "Darth Vader's armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "8",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "4000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "CR",
+   "Page": 262,
+   "Comment": "Built-In Helmet package, Vacuum seals."
+ },
+ {
+   "Armor name": "Droid, Durasteel Plating",
+   "Armor type": "Light Armor",
+   "Ref bonus": "6",
+   "Fort Bonus": "-",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "3600",
+   "Upgeade slots": 1,
+   "Weight": "12",
+   "Books": "CR",
+   "Page": 196,
+   "Comment": "x Cost Factor. Droid with Built-In armor takes no penalty to its speed."
+ },
+ {
+   "Armor name": "Droid, Durasteel Shell",
+   "Armor type": "Light Armor",
+   "Ref bonus": "4",
+   "Fort Bonus": "-",
+   "Max Dex": "4",
+   "ACP": -2,
+   "Cost": "1600",
+   "Upgeade slots": 1,
+   "Weight": "8",
+   "Books": "CR",
+   "Page": 196,
+   "Comment": "x Cost Factor. Droid with Built-In armor takes no penalty to its speed."
+ },
+ {
+   "Armor name": "Droid, Duravlex Shell",
+   "Armor type": "Light Armor",
+   "Ref bonus": "4",
+   "Fort Bonus": "",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "1000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "SGD",
+   "Page": 54,
+   "Comment": "x Cost Factor. Droid with Built-In armor takes no penalty to its speed. Grants +10 to Fort Def to resist fire and extreme heat."
+ },
+ {
+   "Armor name": "Droid, Laminanium Plating",
+   "Armor type": "Light Armor",
+   "Ref bonus": "4",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "3000",
+   "Upgeade slots": 1,
+   "Weight": "15x",
+   "Books": "SGD",
+   "Page": 54,
+   "Comment": "x Cost Factor. Droid with Built-In armor takes no penalty to its speed."
+ },
+ {
+   "Armor name": "Droid, Plasteel Shell",
+   "Armor type": "Light Armor",
+   "Ref bonus": "2",
+   "Fort Bonus": "-",
+   "Max Dex": "5",
+   "ACP": -2,
+   "Cost": "400",
+   "Upgeade slots": 1,
+   "Weight": "2x",
+   "Books": "CR",
+   "Page": 196,
+   "Comment": "x Cost Factor. Droid with Built-In armor takes no penalty to its speed."
+ },
+ {
+   "Armor name": "Droid, Quadanium Plating",
+   "Armor type": "Light Armor",
+   "Ref bonus": "5",
+   "Fort Bonus": "-",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "2500",
+   "Upgeade slots": 1,
+   "Weight": "10x",
+   "Books": "CR",
+   "Page": 196,
+   "Comment": "x Cost Factor. Droid with Built-In armor takes no penalty to its speed."
+ },
+ {
+   "Armor name": "Droid, Quadanium Shell",
+   "Armor type": "Light Armor",
+   "Ref bonus": "3",
+   "Fort Bonus": "-",
+   "Max Dex": "4",
+   "ACP": -2,
+   "Cost": "900",
+   "Upgeade slots": 1,
+   "Weight": "3x",
+   "Books": "CR",
+   "Page": 196,
+   "Comment": "x Cost Factor. Droid with Built-In armor takes no penalty to its speed."
+ },
+ {
+   "Armor name": "Energy shields, Light SR 5",
+   "Armor type": "Light Armor",
+   "Ref bonus": "-",
+   "Fort Bonus": "-",
+   "Max Dex": "4",
+   "ACP": -2,
+   "Cost": "500",
+   "Upgeade slots": 1,
+   "Weight": "1",
+   "Books": "K",
+   "Page": 71,
+   "Comment": "5 charges. 1/Encounter activate as a Sw Action. Protects against energy dmg. Takes ACP even if proficient only when activated. If not proficient also take -5 on Ref Def and denied Dex bonus to Ref Def only when penalty.activated. Energy shields does not suffer movement"
+ },
+ {
+   "Armor name": "Energy shields, Light SR 10",
+   "Armor type": "Light Armor",
+   "Ref bonus": "-",
+   "Fort Bonus": "-",
+   "Max Dex": "4",
+   "ACP": -2,
+   "Cost": "2000",
+   "Upgeade slots": 1,
+   "Weight": "1",
+   "Books": "K",
+   "Page": 71,
+   "Comment": "5 charges. 1/Encounter activate as a Sw Action. Protects against energy dmg. Takes ACP even if proficient only when activated. If not proficient also take -5 on Ref Def and denied Dex bonus to Ref Def only when penalty.activated. Energy shields does not suffer movement"
+ },
+ {
+   "Armor name": "",
+   "Armor type": "",
+   "Ref bonus": "",
+   "Fort Bonus": "",
+   "Max Dex": "",
+   "ACP": null,
+   "Cost": "",
+   "Upgeade slots": null,
+   "Weight": "",
+   "Books": "",
+   "Page": null,
+   "Comment": ""
+ },
+ {
+   "Armor name": "EVO Trooper armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "6",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "8000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "F",
+   "Page": 179,
+   "Comment": "Rare. Built-In Helmet package. =+10 Fort Def vs. airborne poisons."
+ },
+ {
+   "Armor name": "Fiber armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "4",
+   "Fort Bonus": "1",
+   "Max Dex": "2",
+   "ACP": -2,
+   "Cost": "3000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "K",
+   "Page": 72,
+   "Comment": "Reaction. 1/Encounter. When fighting defensively gain DR10 vs. one single ranged energy atk."
+ },
+ {
+   "Armor name": "Flight Suit, Armored",
+   "Armor type": "Light Armor",
+   "Ref bonus": "5",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "4000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "CR",
+   "Page": 133,
+   "Comment": "Built-In Vacuum seals."
+ },
+ {
+   "Armor name": "Flight Suit, Padded",
+   "Armor type": "Light Armor",
+   "Ref bonus": "3",
+   "Fort Bonus": "1",
+   "Max Dex": "4",
+   "ACP": -2,
+   "Cost": "2000",
+   "Upgeade slots": 1,
+   "Weight": "5",
+   "Books": "CR",
+   "Page": 133,
+   "Comment": "Built-In Vacuum seals."
+ },
+ {
+   "Armor name": "Galactic Alliance Armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "4",
+   "Fort Bonus": "1",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "6000",
+   "Upgeade slots": 1,
+   "Weight": "9",
+   "Books": "L",
+   "Page": 140,
+   "Comment": "Possible Built-In Helmet package depending on unit."
+ },
+ {
+   "Armor name": "Galactic Alliance Armor, Fleet Crew",
+   "Armor type": "Light Armor",
+   "Ref bonus": "2",
+   "Fort Bonus": "",
+   "Max Dex": "5",
+   "ACP": -2,
+   "Cost": "500",
+   "Upgeade slots": 1,
+   "Weight": "3",
+   "Books": "L",
+   "Page": 140,
+   "Comment": ""
+ },
+ {
+   "Armor name": "Geonosian Warrior Tunic",
+   "Armor type": "Light Armor",
+   "Ref bonus": "4",
+   "Fort Bonus": "",
+   "Max Dex": "4",
+   "ACP": -2,
+   "Cost": "1500",
+   "Upgeade slots": 1,
+   "Weight": "8",
+   "Books": "C",
+   "Page": 182,
+   "Comment": ""
+ },
+ {
+   "Armor name": "Half-vest",
+   "Armor type": "Light Armor",
+   "Ref bonus": "1",
+   "Fort Bonus": "",
+   "Max Dex": "5",
+   "ACP": -2,
+   "Cost": "250",
+   "Upgeade slots": 1,
+   "Weight": "2",
+   "Books": "SV",
+   "Page": 49,
+   "Comment": "1/Encounter, F Action can negate bonus dmg on any atk while he is denied his Dex bonus to Ref Def. +5 on Stealth checks to conceal the armor."
+ },
+ {
+   "Armor name": "Jedi battle armor, Light",
+   "Armor type": "Light Armor",
+   "Ref bonus": "3",
+   "Fort Bonus": "3",
+   "Max Dex": "4",
+   "ACP": -2,
+   "Cost": "4000",
+   "Upgeade slots": 1,
+   "Weight": "6",
+   "Books": "J",
+   "Page": 62,
+   "Comment": "Rare."
+ },
+ {
+   "Armor name": "Jumptrooper armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "6",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "8000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "F",
+   "Page": 180,
+   "Comment": "Rare. Built-In Helmet package."
+ },
+ {
+   "Armor name": "Krath armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "5",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "3500",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "K",
+   "Page": 219,
+   "Comment": ""
+ },
+ {
+   "Armor name": "Krath Battle armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "5",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "4000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "K",
+   "Page": 219,
+   "Comment": "Built-In Vacuum seals."
+ },
+ {
+   "Armor name": "Light Combat armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "5",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "4000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "F",
+   "Page": 217,
+   "Comment": "Built-In Vacuum seals."
+ },
+ {
+   "Armor name": "Mandalorian Combat Suit",
+   "Armor type": "Light Armor",
+   "Ref bonus": "4",
+   "Fort Bonus": "1",
+   "Max Dex": "5",
+   "ACP": -2,
+   "Cost": "",
+   "Upgeade slots": 2,
+   "Weight": "8",
+   "Books": "K",
+   "Page": 201,
+   "Comment": "Rare. Built-In Helmet package, Vacuum seals and Jet pack."
+ },
+ {
+   "Armor name": "Mandalorian Neo-Crusader Light armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "6",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "",
+   "Upgeade slots": 2,
+   "Weight": "42",
+   "Books": "K",
+   "Page": 201,
+   "Comment": "Rare. Built-In Helmet package, Vacuum seals and Jet pack."
+ },
+ {
+   "Armor name": "Marine armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "5",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "5000",
+   "Upgeade slots": 1,
+   "Weight": "12",
+   "Books": "GW",
+   "Page": 45,
+   "Comment": "Built-In Improved Vacuum seals, Aquatic Adaptation, Magnetic soled (-2sq spd when"
+ },
+ {
+   "Armor name": "Merr-Sonn KZZ Riot armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "2",
+   "Fort Bonus": "2",
+   "Max Dex": "5",
+   "ACP": -2,
+   "Cost": "2500",
+   "Upgeade slots": 1,
+   "Weight": "6",
+   "Books": "R",
+   "Page": 51,
+   "Comment": ""
+ },
+ {
+   "Armor name": "Phase Zero",
+   "Armor type": "Light Armor",
+   "Ref bonus": "6",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "8000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "F",
+   "Page": 177,
+   "Comment": "Rare. Built-In Helmet package."
+ },
+ {
+   "Armor name": "Radtrooper armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "6",
+   "Fort Bonus": "4",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "8000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "F",
+   "Page": 180,
+   "Comment": "Rare. Built-In Helmet package. =+10 Fort Def vs. radiation hazards."
+ },
+ {
+   "Armor name": "Republic Light armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "4",
+   "Fort Bonus": "1",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "",
+   "Upgeade slots": 0,
+   "Weight": "7",
+   "Books": "K",
+   "Page": 179,
+   "Comment": "Built-In Comlink if wearer has AP (Light) feat. Can not be upgraded."
+ },
+ {
+   "Armor name": "Sandtrooper armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "6",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "18000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "CR",
+   "Page": 133,
+   "Comment": "Rare. Built-In Helmet package. Immune to effects of extreme heat."
+ },
+ {
+   "Armor name": "Scout Trooper armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "4",
+   "Fort Bonus": "",
+   "Max Dex": "4",
+   "ACP": -2,
+   "Cost": "1500",
+   "Upgeade slots": 1,
+   "Weight": "8",
+   "Books": "CR",
+   "Page": 280,
+   "Comment": "Built-In Helmet package."
+ },
+ {
+   "Armor name": "Seatrooper Armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "4",
+   "Fort Bonus": "2",
+   "Max Dex": "2",
+   "ACP": -2,
+   "Cost": "6750",
+   "Upgeade slots": 1,
+   "Weight": "14",
+   "Books": "R",
+   "Page": 126,
+   "Comment": "Built-In Helmet package. Pressure-sealed to 10 atmospheres (220m) Swim +2."
+ },
+ {
+   "Armor name": "Shadowsuit",
+   "Armor type": "Light Armor",
+   "Ref bonus": "1",
+   "Fort Bonus": "1",
+   "Max Dex": "5",
+   "ACP": -2,
+   "Cost": "600",
+   "Upgeade slots": null,
+   "Weight": "2",
+   "Books": "SV",
+   "Page": 49,
+   "Comment": "Can be worn beneath clothing or other armor. +5 to Stealth whenever wearer has concealment from darkness or low-light conditions. Also in C54."
+ },
+ {
+   "Armor name": "Shield Gauntlet",
+   "Armor type": "Light Armor",
+   "Ref bonus": "",
+   "Fort Bonus": "",
+   "Max Dex": "",
+   "ACP": -2,
+   "Cost": "1500",
+   "Upgeade slots": 1,
+   "Weight": "1",
+   "Books": "R",
+   "Page": 51,
+   "Comment": "Rare. Can be worn even with other armor but can not wear any items in the hand using it. Kilian Rangers can use it to deflect ranged atks. Requires an energy cell to operate."
+ },
+ {
+   "Armor name": "Sith Trooper Armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "6",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "8000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "K",
+   "Page": 147,
+   "Comment": "Rare. Built-In Helmet package."
+ },
+ {
+   "Armor name": "Skakoan Light Pressure Suit",
+   "Armor type": "Light Armor",
+   "Ref bonus": "5",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "4000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "W",
+   "Page": null,
+   "Comment": "Built-In Vacuum seals. Provides everything a Skakoan needs to survive indefinitely in an atmosphere. If Purchased anywhere besides Skako x2 price. atmosphere. If Purchased anywhere besides Skako x2 price. Speed is reduced to 4sq/2sq (6sq/4sq base)."
+ },
+ {
+   "Armor name": "Snowtrooper armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "6",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "18000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "CR",
+   "Page": 133,
+   "Comment": "Rare. Built-In Helmet package. Immune to effects of extreme cold."
+ },
+ {
+   "Armor name": "SpecForce Armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "5",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "4000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "T",
+   "Page": 95,
+   "Comment": "Built-In Vacuum seals."
+ },
+ {
+   "Armor name": "Storm Commando armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "4",
+   "Fort Bonus": "-",
+   "Max Dex": "4",
+   "ACP": -2,
+   "Cost": "",
+   "Upgeade slots": 1,
+   "Weight": "8",
+   "Books": "R",
+   "Page": 123,
+   "Comment": "Built-In Helmet package, Shadowskin."
+ },
+ {
+   "Armor name": "Stormtrooper armor",
+   "Armor type": "Light Armor",
+   "Ref bonus": "6",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "8000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "CR",
+   "Page": 133,
+   "Comment": "Rare. Built-In Helmet package."
+ },
+ {
+   "Armor name": "Stormtrooper armor, Reinforced",
+   "Armor type": "Light Armor",
+   "Ref bonus": "7",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "",
+   "Upgeade slots": 1,
+   "Weight": "13",
+   "Books": "R",
+   "Page": 122,
+   "Comment": "Rare. Built-In Helmet package."
+ },
+ {
+   "Armor name": "Stormtrooper, Stygian-Triprismatic",
+   "Armor type": "Light Armor",
+   "Ref bonus": "7",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -2,
+   "Cost": "",
+   "Upgeade slots": 1,
+   "Weight": "13",
+   "Books": "R",
+   "Page": 121,
+   "Comment": "Rare. Stygian-Triprismatic Polymer Template. Built-In Helmet package."
+ },
+ {
+   "Armor name": "Stun Cloak",
+   "Armor type": "Light Armor",
+   "Ref bonus": "1",
+   "Fort Bonus": "-",
+   "Max Dex": "5",
+   "ACP": -2,
+   "Cost": "3500",
+   "Upgeade slots": 0,
+   "Weight": "2",
+   "Books": "GW",
+   "Page": 45,
+   "Comment": "Successful grapple or if grappled, cloak deals 3d8 stun dmg. For 2x price it also works as a all-temperature cloak or Camouflage poncho."
+ },
+ {
+   "Armor name": "Thinsuit",
+   "Armor type": "Light Armor",
+   "Ref bonus": "-",
+   "Fort Bonus": "-",
+   "Max Dex": "6",
+   "ACP": -2,
+   "Cost": "900",
+   "Upgeade slots": 1,
+   "Weight": "1",
+   "Books": "C",
+   "Page": 64,
+   "Comment": "Can be worn beneath clothing or other armor. Breath mask 1h air. +5 Fort Def and only half/no dmg vs. extreme temperatures."
+ },
+ {
+   "Armor name": "Tracker Utility vest",
+   "Armor type": "Light Armor",
+   "Ref bonus": "1",
+   "Fort Bonus": "-",
+   "Max Dex": "5",
+   "ACP": -2,
+   "Cost": "300",
+   "Upgeade slots": 1,
+   "Weight": "0,5",
+   "Books": "C",
+   "Page": 64,
+   "Comment": "24 Pouches (up to 1kg each) cumulative weight is halved."
+ },
+ {
+   "Armor name": "Ubese Environmental Suit (Ubese)",
+   "Armor type": "Light Armor",
+   "Ref bonus": "4",
+   "Fort Bonus": "2",
+   "Max Dex": "4",
+   "ACP": -2,
+   "Cost": "2000",
+   "Upgeade slots": 1,
+   "Weight": "8",
+   "Books": "SV",
+   "Page": 13,
+   "Comment": "Built-In breath mask and voice modulator. 1 years supply of breathing filers costs 200cr (50cr on Ubese). Ubese begin with this item at no cost."
+ },
+ {
+   "Armor name": "WJ-880 blinding helmet",
+   "Armor type": "Light Armor",
+   "Ref bonus": "0",
+   "Fort Bonus": "0",
+   "Max Dex": "-",
+   "ACP": -2,
+   "Cost": "200",
+   "Upgeade slots": 1,
+   "Weight": "2",
+   "Books": "J",
+   "Page": 63,
+   "Comment": "Rare. All targets have total concealment from wearer."
+ },
+ {
+   "Armor name": "Vonduun Crabshell",
+   "Armor type": "Light Armor",
+   "Ref bonus": "5",
+   "Fort Bonus": "5",
+   "Max Dex": "4",
+   "ACP": -2,
+   "Cost": "-",
+   "Upgeade slots": 1,
+   "Weight": "5",
+   "Books": "CR",
+   "Page": 133,
+   "Comment": "Rare."
+ },
+ {
+   "Armor name": "",
+   "Armor type": "",
+   "Ref bonus": "",
+   "Fort Bonus": "",
+   "Max Dex": "",
+   "ACP": null,
+   "Cost": "",
+   "Upgeade slots": null,
+   "Weight": "",
+   "Books": "",
+   "Page": null,
+   "Comment": ""
+ },
+ {
+   "Armor name": "Battle armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "8",
+   "Fort Bonus": "2",
+   "Max Dex": "2",
+   "ACP": -5,
+   "Cost": "7000",
+   "Upgeade slots": 1,
+   "Weight": "16",
+   "Books": "CR",
+   "Page": 132,
+   "Comment": ""
+ },
+ {
+   "Armor name": "Battle armor, Powered",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "7",
+   "Fort Bonus": "2",
+   "Max Dex": "2",
+   "ACP": -5,
+   "Cost": "11000",
+   "Upgeade slots": 2,
+   "Weight": "17",
+   "Books": "K",
+   "Page": 71,
+   "Comment": "Built-In Helmet package."
+ },
+ {
+   "Armor name": "Beskar'gam, Medium",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "8",
+   "Fort Bonus": "2",
+   "Max Dex": "2",
+   "ACP": -5,
+   "Cost": "37000",
+   "Upgeade slots": 2,
+   "Weight": "17",
+   "Books": "SV",
+   "Page": 48,
+   "Comment": "Rare. Favorable circumstances on Persuasion checks to intimidate. If personal DR can apply against atks made by lightsabers."
+ },
+ {
+   "Armor name": "Biohazard Suit",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "-",
+   "Fort Bonus": "3",
+   "Max Dex": "-",
+   "ACP": -5,
+   "Cost": "4000",
+   "Upgeade slots": 1,
+   "Weight": "9",
+   "Books": "GW",
+   "Page": 44,
+   "Comment": "Immunity to all atmospheric or inhaled poisons and diseases. 1 hour breathable atmosphere before filter and atmosphere canister must be replaced."
+ },
+ {
+   "Armor name": "Boba Fett's Mandalorian Armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "9",
+   "Fort Bonus": "2",
+   "Max Dex": "2",
+   "ACP": -5,
+   "Cost": "",
+   "Upgeade slots": 2,
+   "Weight": "18",
+   "Books": "L",
+   "Page": 98,
+   "Comment": "Rare. Built-In Helmet package, Vacuum seals and Jet pack."
+ },
+ {
+   "Armor name": "Camo armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "5",
+   "Fort Bonus": "-",
+   "Max Dex": "3",
+   "ACP": -5,
+   "Cost": "6000",
+   "Upgeade slots": 1,
+   "Weight": "6",
+   "Books": "C",
+   "Page": 64,
+   "Comment": "Match wearers surroundings. Grants +10 to Stealth checks."
+ },
+ {
+   "Armor name": "Camo Scout armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "6",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -5,
+   "Cost": "6000",
+   "Upgeade slots": 1,
+   "Weight": "13",
+   "Books": "GW",
+   "Page": 44,
+   "Comment": "Built-In Shadowskin upgrade."
+ },
+ {
+   "Armor name": "Ceremonial armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "7",
+   "Fort Bonus": "-",
+   "Max Dex": "2",
+   "ACP": -5,
+   "Cost": "5000",
+   "Upgeade slots": 1,
+   "Weight": "13",
+   "Books": "CR",
+   "Page": 132,
+   "Comment": ""
+ },
+ {
+   "Armor name": "Corellian Powersuit",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "7",
+   "Fort Bonus": "-",
+   "Max Dex": "3",
+   "ACP": -5,
+   "Cost": "10000",
+   "Upgeade slots": 2,
+   "Weight": "20",
+   "Books": "CR",
+   "Page": 133,
+   "Comment": "Str +2 if wearer has AP (Medium) feat."
+ },
+ {
+   "Armor name": "Cortosis Gauntlet",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "",
+   "Fort Bonus": "",
+   "Max Dex": "",
+   "ACP": -5,
+   "Cost": "1500",
+   "Upgeade slots": 1,
+   "Weight": "1",
+   "Books": "L",
+   "Page": 183,
+   "Comment": "Rare. Cortosis weave template. If wearer readies an action to block a lightsaber atk, atk roll (unarmed melee atk roll) vs. Lightsabers atk roll, if success deactivate lightsaber for 2min (20 rounds) Atk still suffer movement penalty.deals normal dmg before lightsaber is deactivated. Does not"
+ },
+ {
+   "Armor name": "Dark armor, Medium",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "7",
+   "Fort Bonus": "4",
+   "Max Dex": "2",
+   "ACP": -5,
+   "Cost": "15000",
+   "Upgeade slots": 1,
+   "Weight": "16",
+   "Books": "J",
+   "Page": 61,
+   "Comment": "Rare. Comes with a single enhancement from the Sith Alchemist talent (J22)"
+ },
+ {
+   "Armor name": "Droid, Duranium Plating",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "8",
+   "Fort Bonus": "-",
+   "Max Dex": "2",
+   "ACP": -5,
+   "Cost": "6400",
+   "Upgeade slots": 1,
+   "Weight": "16x",
+   "Books": "CR",
+   "Page": 196,
+   "Comment": "x Cost Factor. Droid with Built-In armor takes no penalty to its speed."
+ },
+ {
+   "Armor name": "Droid, Durasteel Battle Armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "8",
+   "Fort Bonus": "-",
+   "Max Dex": "3",
+   "ACP": -5,
+   "Cost": "9600",
+   "Upgeade slots": 1,
+   "Weight": "8x",
+   "Books": "CR",
+   "Page": 196,
+   "Comment": "x Cost Factor. Droid with Built-In armor takes no penalty to its speed."
+ },
+ {
+   "Armor name": "Droid, Quadanium Battle Armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "7",
+   "Fort Bonus": "-",
+   "Max Dex": "3",
+   "ACP": -5,
+   "Cost": "4900",
+   "Upgeade slots": 1,
+   "Weight": "7x",
+   "Books": "CR",
+   "Page": 196,
+   "Comment": "x Cost Factor. Droid with Built-In armor takes no penalty to its speed. Medium SR 15"
+ },
+ {
+   "Armor name": "Energy shields, Medium SR 15",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "-",
+   "Fort Bonus": "-",
+   "Max Dex": "3",
+   "ACP": -5,
+   "Cost": "4500",
+   "Upgeade slots": 1,
+   "Weight": "1",
+   "Books": "K",
+   "Page": 71,
+   "Comment": "5 charges. 1/Encounter activate as a Sw Action. Protects against energy dmg. Takes ACP even if proficient only when activated. If not proficient also take -5 on Ref Def and denied Dex bonus to Ref Def only when penalty.activated. Energy shields does not suffer movement"
+ },
+ {
+   "Armor name": "Energy shields, Medium SR 20",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "-",
+   "Fort Bonus": "-",
+   "Max Dex": "3",
+   "ACP": -5,
+   "Cost": "8000",
+   "Upgeade slots": 1,
+   "Weight": "1",
+   "Books": "K",
+   "Page": 71,
+   "Comment": "5 charges. 1/Encounter activate as a Sw Action. Protects against energy dmg. Takes ACP even if proficient only when activated. If not proficient also take -5 on Ref Def and denied Dex bonus to Ref Def only when penalty.activated. Energy shields does not suffer movement"
+ },
+ {
+   "Armor name": "GTU AV-1S Scout armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "7",
+   "Fort Bonus": "2",
+   "Max Dex": "2",
+   "ACP": -5,
+   "Cost": "15000",
+   "Upgeade slots": 2,
+   "Weight": "18",
+   "Books": "SV",
+   "Page": 48,
+   "Comment": "Built-In Helmet package, Vacuum seals, Glowrod, Repulsorlift system that replicates a jetpack but produces no noise, heat or flame and 4sq movement."
+ },
+ {
+   "Armor name": "Imperial Knight armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "8",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -5,
+   "Cost": "7000",
+   "Upgeade slots": 1,
+   "Weight": "16",
+   "Books": "L",
+   "Page": 183,
+   "Comment": "Rare. Philk alloy template."
+ },
+ {
+   "Armor name": "Jedi battle armor, Medium",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "5",
+   "Fort Bonus": "5",
+   "Max Dex": "3",
+   "ACP": -5,
+   "Cost": "6000",
+   "Upgeade slots": 1,
+   "Weight": "12",
+   "Books": "J",
+   "Page": 62,
+   "Comment": "Rare."
+ },
+ {
+   "Armor name": "Katarn-class Commando armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "9",
+   "Fort Bonus": "4",
+   "Max Dex": "1",
+   "ACP": -5,
+   "Cost": "30000",
+   "Upgeade slots": 3,
+   "Weight": "20",
+   "Books": "GW",
+   "Page": 44,
+   "Comment": "Built-In Helmet package. Improved Vacuum seals, Vibroblade, Bacta. FR Action to use bacta grants +10 on Treat Injury for self treatment."
+ },
+ {
+   "Armor name": "Knighthunter armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "7",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -5,
+   "Cost": "6000",
+   "Upgeade slots": 1,
+   "Weight": "13",
+   "Books": "L",
+   "Page": 183,
+   "Comment": "Built-In Helmet package. +5 to Will Def vs. UtF checks."
+ },
+ {
+   "Armor name": "Krail 210 Personal armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "7",
+   "Fort Bonus": "1",
+   "Max Dex": "3",
+   "ACP": -5,
+   "Cost": "16300",
+   "Upgeade slots": 2,
+   "Weight": "17",
+   "Books": "SV",
+   "Page": 49,
+   "Comment": "Built-In Helmet package, Vacuum seals, Jet pack, liquid cable dispenser. =+2 to Str checks made to lift, drag or pull an object."
+ },
+ {
+   "Armor name": "Mandalorian Neo-Crusader Battle armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "8",
+   "Fort Bonus": "2",
+   "Max Dex": "2",
+   "ACP": -5,
+   "Cost": "",
+   "Upgeade slots": 2,
+   "Weight": "18",
+   "Books": "K",
+   "Page": 202,
+   "Comment": "Rare. Built-In Helmet package, Vacuum seals and Jet pack."
+ },
+ {
+   "Armor name": "Mesh armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "6",
+   "Fort Bonus": "2",
+   "Max Dex": "2",
+   "ACP": -5,
+   "Cost": "6000",
+   "Upgeade slots": 1,
+   "Weight": "13",
+   "Books": "K",
+   "Page": 72,
+   "Comment": "Reaction. 1/Encounter. When fighting defensively gain DR20 vs. one single ranged energy atk."
+ },
+ {
+   "Armor name": "Republic Combat armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "6",
+   "Fort Bonus": "2",
+   "Max Dex": "2",
+   "ACP": -5,
+   "Cost": "",
+   "Upgeade slots": 1,
+   "Weight": "14",
+   "Books": "K",
+   "Page": 179,
+   "Comment": "Built-In Comlink and Low-light vision if wearer has AP (Medium) feat."
+ },
+ {
+   "Armor name": "Royal Guard armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "7",
+   "Fort Bonus": "-",
+   "Max Dex": "2",
+   "ACP": -5,
+   "Cost": "5000",
+   "Upgeade slots": 1,
+   "Weight": "13",
+   "Books": "F",
+   "Page": 174,
+   "Comment": "Built-In Helmet package."
+ },
+ {
+   "Armor name": "Shadow Guard armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "7",
+   "Fort Bonus": "-",
+   "Max Dex": "2",
+   "ACP": -5,
+   "Cost": "5000",
+   "Upgeade slots": 1,
+   "Weight": "13",
+   "Books": "F",
+   "Page": 175,
+   "Comment": "Built-In Helmet package."
+ },
+ {
+   "Armor name": "Sith Battle Suit",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "7",
+   "Fort Bonus": "2",
+   "Max Dex": "2",
+   "ACP": -5,
+   "Cost": "",
+   "Upgeade slots": 1,
+   "Weight": "",
+   "Books": "K",
+   "Page": 149,
+   "Comment": ""
+ },
+ {
+   "Armor name": "Skakoan Medium Pressure Suit",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "8",
+   "Fort Bonus": "2",
+   "Max Dex": "2",
+   "ACP": -5,
+   "Cost": "7000",
+   "Upgeade slots": 1,
+   "Weight": "16",
+   "Books": "W",
+   "Page": null,
+   "Comment": "Provides everything a Skakoan needs to survive indefinitely in an atmosphere. If Purchased anywhere besides Skako x2 price. Speed is reduced to 3sq/2sq (6sq/4sq base)."
+ },
+ {
+   "Armor name": "Stalker armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "7",
+   "Fort Bonus": "-",
+   "Max Dex": "3",
+   "ACP": -5,
+   "Cost": "7500",
+   "Upgeade slots": 3,
+   "Weight": "10",
+   "Books": "GW",
+   "Page": 45,
+   "Comment": "Immediately identifies wearer as bounty hunter."
+ },
+ {
+   "Armor name": "Weave armor",
+   "Armor type": "Medium Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "6",
+   "Fort Bonus": "2",
+   "Max Dex": "3",
+   "ACP": -5,
+   "Cost": "5000",
+   "Upgeade slots": 1,
+   "Weight": "15",
+   "Books": "K",
+   "Page": 72,
+   "Comment": ""
+ },
+ {
+   "Armor name": "",
+   "Armor type": "",
+   "Ref bonus": "",
+   "Fort Bonus": "",
+   "Max Dex": "",
+   "ACP": null,
+   "Cost": "",
+   "Upgeade slots": null,
+   "Weight": "",
+   "Books": "",
+   "Page": null,
+   "Comment": ""
+ },
+ {
+   "Armor name": "Armored Spacesuit",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "9",
+   "Fort Bonus": "3",
+   "Max Dex": "1",
+   "ACP": -10,
+   "Cost": "12000",
+   "Upgeade slots": 1,
+   "Weight": "35",
+   "Books": "CR",
+   "Page": 132,
+   "Comment": "Built-In Improved Vacuum seals."
+ },
+ {
+   "Armor name": "Battle armor, Heavy Powered",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "9",
+   "Fort Bonus": "4",
+   "Max Dex": "1",
+   "ACP": -10,
+   "Cost": "19000",
+   "Upgeade slots": 2,
+   "Weight": "32",
+   "Books": "K",
+   "Page": 71,
+   "Comment": "Built-In Helmet package."
+ },
+ {
+   "Armor name": "Battle armor, Heavy",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "10",
+   "Fort Bonus": "4",
+   "Max Dex": "1",
+   "ACP": -10,
+   "Cost": "15000",
+   "Upgeade slots": 1,
+   "Weight": "30",
+   "Books": "CR",
+   "Page": 132,
+   "Comment": ""
+ },
+ {
+   "Armor name": "Beskar'gam, Heavy",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "10",
+   "Fort Bonus": "4",
+   "Max Dex": "1",
+   "ACP": -10,
+   "Cost": "45000",
+   "Upgeade slots": 2,
+   "Weight": "32",
+   "Books": "SV",
+   "Page": 48,
+   "Comment": "Rare. Favorable circumstances on Persuasion checks to intimidate. If personal DR can apply against atks made by lightsabers."
+ },
+ {
+   "Armor name": "Clone Trooper Fire-resistant armor",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "9",
+   "Fort Bonus": "6",
+   "Max Dex": "0",
+   "ACP": -10,
+   "Cost": "",
+   "Upgeade slots": 1,
+   "Weight": "65",
+   "Books": "C",
+   "Page": 149,
+   "Comment": "Built-In Helmet package. DR 5 vs. fire."
+ },
+ {
+   "Armor name": "Dark armor, Heavy",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "8",
+   "Fort Bonus": "5",
+   "Max Dex": "1",
+   "ACP": -10,
+   "Cost": "25000",
+   "Upgeade slots": 1,
+   "Weight": "30",
+   "Books": "J",
+   "Page": 61,
+   "Comment": "Rare. Comes with a single enhancement from the Sith Alchemist talent (J22)"
+ },
+ {
+   "Armor name": "Droid, Crystadurium Plating",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "10",
+   "Fort Bonus": "",
+   "Max Dex": "2",
+   "ACP": -10,
+   "Cost": "50000",
+   "Upgeade slots": 1,
+   "Weight": "30",
+   "Books": "SGD",
+   "Page": 54,
+   "Comment": "x Cost Factor. Droid with Built-In armor takes no penalty to its speed. When running can only move up to 3 times speed (normal 4 times) Reduce dmg from blaster atks by 1 point per die of dmg."
+ },
+ {
+   "Armor name": "Droid, Duranium Battle Armor",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "10",
+   "Fort Bonus": "-",
+   "Max Dex": "2",
+   "ACP": -10,
+   "Cost": "10000",
+   "Upgeade slots": 1,
+   "Weight": "10",
+   "Books": "CR",
+   "Page": 196,
+   "Comment": "x Cost Factor. Droid with Built-In armor takes no penalty to its speed. When running can only move up to 3 times speed (normal 4 times)"
+ },
+ {
+   "Armor name": "Droid, Laminanium Plating",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "12",
+   "Fort Bonus": "2",
+   "Max Dex": "2",
+   "ACP": -10,
+   "Cost": "20000",
+   "Upgeade slots": 1,
+   "Weight": "15",
+   "Books": "SGD",
+   "Page": 54,
+   "Comment": "x Cost Factor. Droid with Built-In armor takes no penalty to its speed."
+ },
+ {
+   "Armor name": "Droid, Mandalorian Steel Shell",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "9",
+   "Fort Bonus": "-",
+   "Max Dex": "3",
+   "ACP": -10,
+   "Cost": "8100",
+   "Upgeade slots": 1,
+   "Weight": "9",
+   "Books": "CR",
+   "Page": 196,
+   "Comment": "Rare. x Cost Factor. Droid with Built-In armor takes no penalty to its speed. When running can only move up to 3 times speed (normal 4 times)"
+ },
+ {
+   "Armor name": "Droid, Neutronium Plating",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "11",
+   "Fort Bonus": "-",
+   "Max Dex": "1",
+   "ACP": -10,
+   "Cost": "12100",
+   "Upgeade slots": 1,
+   "Weight": "20",
+   "Books": "CR",
+   "Page": 196,
+   "Comment": "x Cost Factor. Droid with Built-In armor takes no penalty to its speed. When running can only move up to 3 times speed (normal 4 times)"
+ },
+ {
+   "Armor name": "Energy shields, Heavy SR 25",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "-",
+   "Fort Bonus": "-",
+   "Max Dex": "2",
+   "ACP": -10,
+   "Cost": "12500",
+   "Upgeade slots": 1,
+   "Weight": "1",
+   "Books": "K",
+   "Page": 71,
+   "Comment": "5 charges. 1/Encounter activate as a Sw Action. Protects against energy dmg. Takes ACP even if proficient only when activated. If not proficient also take -5 on Ref Def and denied Dex bonus to Ref Def only when penalty.activated. Energy shields does not suffer movement"
+ },
+ {
+   "Armor name": "Energy shields, Heavy SR 30",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "-",
+   "Fort Bonus": "-",
+   "Max Dex": "2",
+   "ACP": -10,
+   "Cost": "18000",
+   "Upgeade slots": 1,
+   "Weight": "1",
+   "Books": "K",
+   "Page": 71,
+   "Comment": "5 charges. 1/Encounter activate as a Sw Action. Protects against energy dmg. Takes ACP even if proficient only when activated. If not proficient also take -5 on Ref Def and denied Dex bonus to Ref Def only when penalty.activated. Energy shields does not suffer movement"
+ },
+ {
+   "Armor name": "GTU AV-1C Combat armor",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "9",
+   "Fort Bonus": "4",
+   "Max Dex": "1",
+   "ACP": -10,
+   "Cost": "25000",
+   "Upgeade slots": 2,
+   "Weight": "25",
+   "Books": "SV",
+   "Page": 48,
+   "Comment": "Rare. Built-In Helmet package, Vacuum seals, Repulsorlift system that replicates a jetpack but produces no noise, heat or flame."
+ },
+ {
+   "Armor name": "Heavy Dungeoneer armor",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "10",
+   "Fort Bonus": "2",
+   "Max Dex": "1",
+   "ACP": -10,
+   "Cost": "15000",
+   "Upgeade slots": 1,
+   "Weight": "30",
+   "Books": "F",
+   "Page": 183,
+   "Comment": "Built-In Helmet package, Audio and Video recorder."
+ },
+ {
+   "Armor name": "Mandalorian Neo-Crusader Assault armor",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "10",
+   "Fort Bonus": "4",
+   "Max Dex": "1",
+   "ACP": -10,
+   "Cost": "",
+   "Upgeade slots": 2,
+   "Weight": "65",
+   "Books": "K",
+   "Page": 202,
+   "Comment": "Rare. Built-In Helmet package, Improved Vacuum seals and Jet pack with a max fly speed of 4sq per turn."
+ },
+ {
+   "Armor name": "Matrix armor",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "9",
+   "Fort Bonus": "3",
+   "Max Dex": "1",
+   "ACP": -10,
+   "Cost": "9000",
+   "Upgeade slots": 1,
+   "Weight": "25",
+   "Books": "K",
+   "Page": 72,
+   "Comment": "Reaction. 1/Encounter. When fighting defensively gain DR30 vs. one single ranged energy atk."
+ },
+ {
+   "Armor name": "Orbalisk armor",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "10",
+   "Fort Bonus": "2",
+   "Max Dex": "1",
+   "ACP": -10,
+   "Cost": "-",
+   "Upgeade slots": 1,
+   "Weight": "26",
+   "Books": "J",
+   "Page": 62,
+   "Comment": "Rare. Will kill wearer if not on the dark side. DR 10, Lightsabers do not ignore DR, Wearer does not take ACP for not having AP (Heavy)."
+ },
+ {
+   "Armor name": "Phase II Dark Trooper armor",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "10",
+   "Fort Bonus": "",
+   "Max Dex": "",
+   "ACP": -10,
+   "Cost": "",
+   "Upgeade slots": 1,
+   "Weight": "",
+   "Books": "R",
+   "Page": 128,
+   "Comment": "Str +3, Perception +2."
+ },
+ {
+   "Armor name": "Phase III Dark Trooper armor",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "12",
+   "Fort Bonus": "",
+   "Max Dex": "",
+   "ACP": -10,
+   "Cost": "",
+   "Upgeade slots": 1,
+   "Weight": "",
+   "Books": "R",
+   "Page": 128,
+   "Comment": "Str +4, Perception +2."
+ },
+ {
+   "Armor name": "Republic Heavy armor",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "8",
+   "Fort Bonus": "3",
+   "Max Dex": "1",
+   "ACP": -10,
+   "Cost": "",
+   "Upgeade slots": 1,
+   "Weight": "26",
+   "Books": "K",
+   "Page": 179,
+   "Comment": "Built-In Improved Vacuum seals. Also if wearer has AP (Heavy) feat Comlink and Low-light vision. -2 dmg vs. Energy atks."
+ },
+ {
+   "Armor name": "Skakoan Heavy Pressure Suit",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "9",
+   "Fort Bonus": "3",
+   "Max Dex": "1",
+   "ACP": -10,
+   "Cost": "12000",
+   "Upgeade slots": 1,
+   "Weight": "35",
+   "Books": "W",
+   "Page": null,
+   "Comment": "Built-In Improved Vacuum seals. Provides everything a Skakoan needs to survive indefinitely in an atmosphere. If Purchased anywhere besides Skako x2 price. Speed is reduced to 3sq/2sq (6sq/4sq base)."
+ },
+ {
+   "Armor name": "Vacuum Pod",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "4",
+   "Fort Bonus": "1",
+   "Max Dex": "0",
+   "ACP": -10,
+   "Cost": "15000",
+   "Upgeade slots": 2,
+   "Weight": "35",
+   "Books": "C",
+   "Page": 64,
+   "Comment": "Fly 6sq in Z-g. Built-in Comlink, 2h life support, Lamp 70sq cone, Repair kit +2 on Mechanics, +4 Str. Takes 10min to put on, 3 turns to remove."
+ },
+ {
+   "Armor name": "Venom Assault armor",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "10",
+   "Fort Bonus": "4",
+   "Max Dex": "1",
+   "ACP": -10,
+   "Cost": "17000",
+   "Upgeade slots": 1,
+   "Weight": "38",
+   "Books": "L",
+   "Page": 140,
+   "Comment": "Built-In Improved Vacuum seals. If wearer has AP (Heavy) also Jump jets (Sw action to activate) to move normal in Zero-G, +2 Str."
+ },
+ {
+   "Armor name": "Zero-G Stormtrooper Armor",
+   "Armor type": "Heavy Armor - Reduces your speed to three-quarters of normal. (4sq if 6sq base, 3sq if 4sq base). When using the Run action you can only move up to 3 times speed (normal 4 times).",
+   "Ref bonus": "9",
+   "Fort Bonus": "3",
+   "Max Dex": "0",
+   "ACP": -10,
+   "Cost": "21000",
+   "Upgeade slots": 1,
+   "Weight": "38",
+   "Books": "R",
+   "Page": 126,
+   "Comment": "Built-In Shoulder-mounted grenade launcher (concussion, stun, gas grenades), Miniature"
+ }
+]

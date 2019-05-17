@@ -1,0 +1,16 @@
+Weapon name,Size,Cost,Dmg,Damage Type,Weight,Burst_radius,Books,Page,Comment
+"Detonator, Manual Trigger",Fist,100,-,-,"0,1",,F,100,Can be added to any explosive. Sw Action to activate a mine within 30sq.
+"Detonator, Timer",Fist,250,-,-,"0,1",-,CR,132,Can be added to any explosive. Can be set to an hours delay. Longer delays require specialized timers. timers.
+Detonite,Fist,500,5d6,E,"0,1",,CR,131,Requires a detonator to be set off.
+Detonite Cord,Tiny,1000,4d6,E,1,1sq,GW,43,Sold in reels enough to occupy 6 squares. Requires a detonator to be set off.
+Explosive Charge,Diminutive,1500,10d6,E,"0,5",1sq,CR,131,
+"Mine, Antipersonnel",Tiny,500,6d6,P,1,6sq cone,GW,42,"Retractable magnetic spikes on bottom allow mine to be placed in ground or attached to a metallic object and is triggered when any character, droid or vehicle enters the sq. Can also be triggered via a tripwire and can be linked together with additional antipersonnel mines (DC 10 Mechanics check for either option). Direction of cone is determined when the mine is placed."
+"Mine, Antipersonnel HX2",Small,750,6d6,E,1,4sq,W,,Atk 1d20+10
+"Mine, Antivehicle",Diminutive,1500,10d6,E,"0,5",2sq,F,100,"Placed in ground any sq adjacent to you and is triggered when any ground vehicle enters the sq, can not be triggered by troops."
+"Mine, Antivehicle Proton",Small,2000,8d6,E,"1,5",4sq,W,,Atk 1d20+10
+"Mine, Flechette",Tiny,1200,8d6,P,"0,5",2sq,F,100,"Placed in ground any sq adjacent to you and is triggered when any character, droid or vehicle enters the sq."
+"Mine, Ion",Tiny,800,8d6,EI,"0,5",2sq,GW,43,Placed in ground any sq adjacent to you and is triggered when any droid or vehicle enters the square.
+"Mine, Land",Tiny,500,8d6,E,"0,5",1sq,F,100,"Placed in ground any sq adjacent to you and is triggered when any character, droid or vehicle enters the sq."
+"Mine, Laser Trip",Tiny,700,6d6,E,"0,5",2sq,F,100,"Placed in ground or any other solid surface sq adjacent to you and then designate a solid surface within 6sq of mine where a nearly invisible laser beam appears. Mine is triggered when any character, creature, mine and designated sq.droid or vehicle disturbs the laser-line between"
+"Mine, Limpet",Tiny,300,6d6,E,"0,5",1sq,GW,43,Adhesive on one side. Vehicle or droid must be of Large size or Larger. Ignores DR of object it is attached to. S Action to attach and activate and is delayed for one round before exploding.
+"Mine, Proximity",Tiny,1500,6d6,E,"0,5",3sq,F,100,Placed in ground or any other solid surface sq adjacent to you and is triggered

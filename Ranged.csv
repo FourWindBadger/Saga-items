@@ -1,0 +1,165 @@
+Weapon name,Weapons type,Size,Cost,dmg,Stun,Damage Type,Weight,Book,Page,comment
+"Dart launcher, Concealed",Exotic Weapons,Small,1900,,3d8,P,"0,5",L,65,Treated as pistol for range even for stun dmg. =+5 equipment bonus on Stealth to conceal.
+Discblade,Exotic Weapons,Small,2000,2d8,,S,"1,25",J,61,Rare.
+"Wrist Rocket, Launcher",Exotic Weapons,Small,2500,varies,,V,1,C,63,
+"Wrist Rocket, Antipersonnel",Exotic Weapons,Small,400,3d8,,S,"0,25",C,63,Functions as a frag grenade but no area effect.
+"Wrist Rocket, Antivehicle",Exotic Weapons,Small,500,3d10,,S,"0,25",C,63,
+"Wrist Rocket, Flash",Exotic Weapons,Small,400,special,,E,"0,25",C,63,Anyone within 3-sq burst radius whose Ref Def is beaten
+"Wrist Rocket, Hollow-Tip Empty",Exotic Weapons,Small,200,2d6,,P,"0,25",C,63,
+"Wrist Rocket, Ion Blast",Exotic Weapons,Small,400,3d6 ion,,EI,"0,25",C,63,
+"Wrist Rocket, Nerve Toxin",Exotic Weapons,Small,600,special,,P,"0,25",C,63,If Hit do secondary attack vs. Fort Def and if successful
+"Wrist Rocket, Stun Gas",Exotic Weapons,Small,400,,3d6,P,"0,25",C,63,Sprays in air on impact creating a cloud that fills square.
+,,,,,,,,,,
+Aurial blaster,Exotic Weapons,Medium,2500,3d6,,ES,1,K,67,"If Atk roll over Fort Def, target takes -5 on all		
+Perception checks until end of attacker's turn.		
+Treat as Pistol for the purpose of determining range.		
+Reloading is a FR action. Replacement cartridges weight 4kg.		"
+Flamethrower,Exotic Weapons,Medium,1000,3d6,,F,7,CR,128,Reloading is a FR action. Replacement cartridges weight 4kg.
+"Lanvarok, Sith",Exotic Weapons,Medium,4000,3d4,,B,"5,8",K,69,"Rare, Treated as pistol for determining range.Discs weights 0.5kg."
+Magna caster,Exotic Weapons,Medium,2000,3d8,,P,4,UR,38,Gain +5 equipment bonus Stealth to snipe. Bolts weight 1kg.
+Neural inhibitor,Exotic Weapons,Medium,4200,1d6,,P,1,SV,50,"If hit poisoned, 1d20+5 (+1 per miss) vs. Fort Def		
+each round at beginning targets turn. If success -1CT		
+persistent (DC20 Treat injury) When target unconscious		
+the neurotoxin dissipates on its own.		"
+Pulse rifle,Exotic Weapons,Medium,5000,2d8,,E,"2,5",SV,50,
+Siang Lance,Exotic Weapons,Medium,2000,3d8,3d8,E,4,R,50,"Rare, Can be used to make AoOs. Built-In bayonet."
+Squib tensor rifle,Exotic Weapons,Medium,10000,3d8,,E,"7,2",UR,39,"Rare, Atk roll vs. Fort Def, if success -1CT regardless of dmg roll. Treat as rifle for range."
+Verpine shatter gun,Exotic Weapons,Medium,15000,3d10,,E,1,UR,39,"Rare, If crit add +1d10 dmg after multiplying, If weapon takes any dmg its disabled, Treat as pistol for range."
+Xerrol NightStinger,Exotic Weapons,Medium,1500,3d6,,E,"4,5",GI,65,Shots are invisible.
+,,,,,,,,,,
+"Blast Cannon, CR-1",Exotic Weapons,Large,2000,3d8 special,,E,6,FU,198,"Treat as pistol for range, Apply range penalties to dmg rolls instead of atk rolls. +=1d8 dmg vs adjacent target. 1 square splash radius vs non-adjacent targets."
+Bowcaster,Exotic Weapons,Large,1500,3d10,,E&P,8,CR,128,Range treat as Rifle. Quiver of 10 quarrels weights 1kg.
+Chewbacca's,Exotic Weapons,Large,,3d10,,E&P,8,L,98,Legendary Icon. Grants favorable circumstances on
+Bowcaster,Exotic Weapons,Large,,,,,,,,Charisma-based skill checks (except UtF checks).
+Deck sweeper,Exotic Weapons,Large,5000,,3d6,E,"4,5",SV,50,Sw Action on same round as atk to prime weapon.
+"Lanvarok, Massassi",Exotic Weapons,Large,250,3d4,,B,"9,8",K,69,"Rare, Treated as throwing for determining range. Can do 1d8 2-H slashing melee weapon. A Disc weights 0.1kg."
+,,,,,,,,,,1d8 2-H slashing melee weapon. A Disc weights 0.1kg.
+Electronet,Exotic Weapons,Medium,2000,,3d8,,5,SV,50,Fired from a Grenade launcher. Functions as a net except that target take stun dmg every round in net.
+Grenade Launcher,Exotic Weapons,Medium,500,special,special,V,5,CR,129,Reloading is a FR action. Always explode on impact.
+,,,,,,,,,,
+Blaster Cannon,Exotic Weapons,Large,3000,3d12,,E,18,CR,124,
+"Blaster Cannon,",Exotic Weapons,Large,5500,3d10,,E,16,GW,40,If braced you can choose to target a 2x4 area. If not braced take additional -5 atk.Can be attached to a power generator for longer use.
+"Blaster,Heavy Repeating",Exotic Weapons,Large,4000,3d10,,E,12,CR,125,Needs a tripod or mount to be able to brace weapon. Can be attached to a power generator for longer use.
+Carbonite rifle,Exotic Weapons,Large,1200,,3d10,E,6,K,69,If moved down CT also immobilized until end of its next turn. Carbonite cartridges weight 1kg.
+Flame Cannon,Exotic Weapons,Large,3000,5d6,,F,15,GW,39,Reloading is a FR action. Replacement magazine weight 20kg. If mounted on a tripod treated as a Large weapon.
+Lt Concussion Missile Launcher,Exotic Weapons,Large,4000,4d10x2,,S,18,T,134,Can not be used with ability that expends more than one shot. Atk - 10 on targets smaller than Huge. Each missile weight 10kg.
+Merr-Sonn PLX-2M Portable Missile Launcher,Exotic Weapons,Large,2250,8d6,,E,48,R,49,Target suffers -2 on its Ref Def. Reload as a FR Action. Replacement missiles weight 8kg. Does not count towards encumbrance when active and drawn weapon.
+Miniature Proton Torpedo Launcher,Exotic Weapons,Large,1500,6d10,,E,8,R,49,S Action to reset after firing. Sw Action to set to single-target mode for 6d10x2 dmg but -10 on atk roll if target is smaller than huge. Each torpedo weights 5kg.*
+Missile launcher,Exotic Weapons,Large,1500,6d6,,S,10,CR,130,Reloading is a FR action. Replacement magazine weight 5kg.
+Mortar launcher,Exotic Weapons,Large,2500,4d6,S,M,S,GW,40,Arc weapon can not be used at PB range. Treat weapon as
+"Projectile Launcher, HH-15*",Exotic Weapons,Large,2000,6d6,S,M,E,W,,
+Tactical T t B Huge,Exotic Weapons,Large,8000,3d6*,S,M,E,GW,42,If mounted on a tripod treated as a Large weapon.
+,,,,,,,,,,
+"Blaster cannon, Heavy",Exotic Weapons,Huge,4200,4d12,S,M,E,L,182,
+"Blaster, E-Web Repeating",Exotic Weapons,Huge,8000,3d12,A,M,E,CR,125,Needs second crew to spends a S Action each round or -2 Atk If mounted on a tripod it is treated as a Large weapon.
+"Missile Launcher, E-Web",Exotic Weapons,Huge,9500,6d6,S,M,S,FU,198,Usually a second crew to reload by spending a M Action. If mounted on a tripod it is treated as a Large weapon.
+,,,,,,,,,,
+"Blaster Pistol, Hold-Out",Pistols,Tiny,300,3d4,,E,"0,5",CR,126,
+"Blaster Pistol, Snap Shot",Pistols,Tiny,250,3d6,,E,1,L,64,
+"Blaster, Wrist",Pistols,Tiny,800,3d4,,E,"0,5",GI,65,
+Czerka Adjudicator,Pistols,Tiny,325,2d4,,P,"0,5",C,62,
+Gee-Tech 12 Defender,Pistols,Tiny,400,3d4,,E,"0,25",C,62,
+Sonic Stunner Small,Pistols,Tiny,450,,3d6,ES,1,T,146,
+,,,,,,,,,,
+Black-powder pistol,Pistols,Small,200,2d4,,P,"1,4",UR,37,
+BlasTech DH-23,Pistols,Small,500,3d6,3d6,E,1,C,61,
+Blaster pistol,Pistols,Small,500,3d6,3d6,E,1,CR,125,
+"Blaster pistol, Sidearm",Pistols,Small,400,3d6,3d6,E,1,GW,38,
+"Blaster pistol, Sporting",Pistols,Small,300,3d4,3d4,E,1,CR,127,
+Ion pistol,Pistols,Small,250,3d6 ion,,EI,1,CR,129,
+Needler,Pistols,Small,650,2d4,,P,1,K,69,
+Pulse-wave pistol,Pistols,Small,200,2d6,,E,1,K,69,
+Ripper,Pistols,Small,750,2d4,,S,1,K,69,Clip weight 0.1kg.
+Saberdart Launcher (Jango Fett),Pistols,Small,,1d4,,,,T,19,
+Shrapnel pistol,Pistols,Small,250,2d6,,P,"1,4",UR,129,
+Slugthrower pistol,Pistols,Small,250,2d6,,P,"1,4",CR,130,
+Sonic disruptor,Pistols,Small,1000,2d6,,ES,1,K,70,
+Sonic pistol,Pistols,Small,900,2d6,,ES,1,K,70,
+Stun pistol,Pistols,Small,550,,3d6,E,1,UR,39,
+,,,,,,,,,,
+Ascension gun,Pistols,Medium,1200,3d8,3d8,E,2,GW,37,
+BlasTech DT-12,Pistols,Medium,900,4d6,4d6,E,2,C,62,
+"Blaster pistol, Bluebolt",Pistols,Medium,850,3d8,3d8,E,"1,6",L,64,
+Blaster pistol,Pistols,Medium,750,3d8,3d8,E,"1,3",CR,126,
+"Heavy Blaster Pistol, S-5*",Pistols,Medium,900,3d8,,E,"1,3",W,,
+"Blaster, Subrepeating",Pistols,Medium,750,3d6,,E,2,SV,49,
+Bryar Pistol,Pistols,Medium,1350,3d4,,E,3,FU,98,
+DX-2 Disruptor Pistol,Pistols,Medium,3000,3d6,,E,3,FU,99,
+Han Solo's Heavy Blaster Pistol,Pistols,Medium,,3d8+2,3d8+2,E,"1,3",L,98,
+Merr-Sonn Model 434,Pistols,Medium,650,3d8,3d8,E,"1,2",C,63,
+"Slugthrower pistol, Heavy",Pistols,Medium,400,2d8,,P,"2,1",UR,38,
+Snare Pistol,Pistols,Medium,600,,1d4,B,2,GI,64,
+"Sonic pistol,",Pistols,Medium,1250,2d8,,S,1,K,70,
+,,,,,,,,,,
+"BlasTech 500 ""ESPO""Riot Gun",Rifles,Medium,1200,3d8,3d8,E,"2,2",R,50,Impose a -1 on atk rolls when shooting single shot. Gain a +2 on atk rolls when shooting autofire. Gain a +2 on atk rolls when shooting autofire.
+Blaster Carbine,Rifles,Medium,900,3d8,3d8,E,"2,2",CR,125,Built-in retractable stock (without it costs 850cr) Can be used to make an AoO with even if stock is not folded.
+"Blaster Carbine, Double-barreled",Rifles,Medium,1200,3d8,3d8,E,"1,9",L,63,Switch to double barrel as a Sw Action. When in this mode it functions as a Area atk (2x2) that consumes 2 shots but can not be used with ability that expends more than one shot.
+"Blaster Carbine, Hunting",Rifles,Medium,1000,3d8,3d8,E,"2,1",L,63,Built-in Retractable stock. On critical hits change dmg dice from d8s to d10s.
+"Blaster Carbine, Sporting",Rifles,Medium,1000,3d8,3d8,E,"2,6",L,63,Not treated as Inaccurate if used with two hands.
+Blaster rifle,Rifles,Medium,1000,3d8,3d8,E,"4,5",CR,127,Built-in retractable stock (without it costs 900cr)
+"Blaster rifle, ARC-9965",Rifles,Medium,1400,3d8,3d8,E,5,L,182,Built-In retractable stock. Autofire consumes 10 shots.
+"Blaster rifle, SGD-4",Rifles,Medium,400,3d8,2d8,E,5,R,50,"Underwater: 2d6 piercing single shot, harpoon must be reloaded as a Sw Action after each shot."
+"Blaster Rifle, Sporting",Rifles,Medium,800,3d6,3d6,E,4,CR,128,
+"Blaster rifle, Targeting",Rifles,Medium,1000,3d6,3d6,E,4,UR,39,Assemble or disassemble as a FR Action. If Aim before
+"Blaster rifle, Variable",Rifles,Medium,1300,3d4*,3d4*,E,5,GW,38,Sw Action to change dmg setting. 3d6 dmg x5 ammo.
+Bryar Rifle,Rifles,Medium,1350,3d8,,E,3?,FU,98,Same as Bryar Pistol.
+Commando Special Rifle,Rifles,Medium,1250,3d10,,E,"3,3",K,180,
+Czerka Adventurer,Rifles,Medium,360,2d10,,P,4,C,62,Can be disassembled or reassembled as M Action.
+"DC-19 ""Stealth"" Carbine",Rifles,Medium,3500,3d8,,E,5,D4,40,Silent and Invisible.
+DXR-6 Disruptor Rifle,Rifles,Medium,3500,3d8,,E,6,FU,99,Same as Disruptor Pistol but can only be fired every other round.
+Incinerator Rifle,Rifles,Medium,3500,3d6,,E,5,FU,99,If Killed or Destroyed it is disintegrated.
+Interchangeable Weapon System 1,Rifle mod,Medium,4500,3d8,3d8,E,5,GW,39,"S Action to switch weapon type. Standard blaster rifle, Sniper rifle, Anti-Armor mode."
+"Interchangeable Weapon System 2, Anti-Armor",Rifle mod,Medium,4500,4d6,,S,1,GW,39,Single-shot grenade launcher with special ammo. In this mode ICWS is treated as a Heavy weapon.
+"Interchangeable Weapon System, Sniper",Rifle mod,Medium,4500,3d10,,E,,GW,39,"Built-in targeting scope, -2 on atk rolls at unmodified PB range."
+Ion carbine,Rifles,Medium,800,3d8 ion,,EI,3,K,69,
+Ion rifle,Rifles,Medium,800,3d8 ion,,EI,"3,1",CR,130,
+Micro grenade launcher,Rifles,Medium,2500,special,special,V,3,SV,50,Fire grenades but -2 dice dmg. Reloaded as a FR Action. Can be mounted on a rifle.
+Pulse-wave rifle,Rifles,Medium,550,2d8,,E,4,K,69,Gain +5 Equipment bonus on dmg roll on PB range.
+Scatter gun,Rifles,Medium,275,3d8/2d8,,P,4,GW,40,"3d8 dmg PB, 2d8 dmg Short, No dmg on Medium and Long. 10 Shells weight 0.1kg."
+Slugthrower rifle,Rifles,Medium,300,2d8,,P,4,CR,130,Clips weight 0.2kg.
+Snare rifle,Rifles,Medium,1200,,1d6,B,5,SV,51,"Initiate a grab or grapple, can use Pin and Trip feat, Escape DC 15 Acrobatics check or DC 20 Strength check. Replacement cartridges weight 2kg."
+Sonic rifle,Rifles,Medium,900,2d8,,ES,5,K,70,
+"SoroSuub Firelance, Blaster Rifle",Rifles,Medium,1200,3d8,4d6,E,"2,5",C,63,
+Stokhli Spray stick Large,Rifles,Medium,14000,,3d8,E,4,FU,100,Functions as net.
+,,,,,,,,,,
+BlasTech DLT-20A,Rifles,Large,1300,3d10,,E,"6,7",C,62,"Built-in scope, +1 Ref Def vs. Disarm. AKA ""Longbarrel""."
+"Blaster Carbine, Repeating",Rifles,Large,2000,3d10,3d10,E,6,K,67,
+Blaster Light Repeating,Rifles,Large,1200,3d8,,E,6,CR,128,Can be attached to a power generator for longer use.
+"Blaster Rifle, Assault",Rifles,Large,1750,3d8,3d8,E,5,K,67,
+"Blaster Rifle, Heavy",Rifles,Large,2000,3d10,3d10,E,6,CR,128,
+"Blaster Rifle, Heavy Assault",Rifles,Large,3000,3d10,,E,7,L,65,On critical hits change dmg dice from d10s to d12s.
+"Blaster Rifle, Heavy Variable",Rifles,Large,2250,3d6*,3d6*,E,"6,5",GW,38,Sw Action to change dmg setting. 3d8 dmg x10 ammo. 3d8 dmg x20 ammo. Built-In Ascension Gun.
+"Blaster rifle, Sniper",Rifles,Large,2000,3d10,,E,8,SV,50,If not aim before making an atk suffer -5 on atk roll. Can not benefit from rapid recycler upgrade.
+Concussion rifle,Rifles,Large,1800,2d10,,ES,"2,1",UR,37,"Rare, Atk roll vs. Fort Def to also knock target prone."
+Flechette Launcher,Rifles,Large,1100,3d8,,P,5,FU,199,
+Flechette Launcher,Rifles,Large,1100,3d8,,P,5,R,49,Can´t be used with ability that expends more than one shot.
+Rail detonator gun,Rifles,Large,1900,3d8,,P,5,FU,200,
+,,,,,,,,,,
+,,,,,,,,,,
+Energy ball,Simple Weapons,Tiny,20,2d8,,E,"0,25",CR,127,"Rare, For range treat as thrown weapon or as simple weapon if hurled by a Cesta."
+"Flash canister, R-9",Simple Weapons,Tiny,100,special,,E,"0,5",J,61,All targets have total concealment against affected creatures until start of the attackers next turn.
+"Grenade, Adhesive",Simple Weapons,Tiny,200,,,E,"0,5",K,67,Atk roll vs. Grapple roll if success targets is unable to move. Lasts three rounds.
+"Grenade, Concussion",Simple Weapons,Tiny,400,8d6,,B,"0,5",R,48,
+"Grenade, CryoBan",Simple Weapons,Tiny,500,3d6,,E,"0,5",K,69,"If Atk roll over Fort Def, targets speed is reduced to 2sq until end of its next turn."
+"Grenade, Frag",Simple Weapons,Tiny,200,4d6,,S,"0,5",CR,129,
+"Grenade, Gas",Simple Weapons,Tiny,250,,4d6,,"0,5",R,49,"Atk vs. Fort Def of all in radius, if hit move -2 CT, If miss no -CT. All targets in blast have concealment. Lasts until end of the attackers next turn."
+"Grenade, Ion",Simple Weapons,Tiny,250,4d6 ion,,EI,"0,5",CR,129,
+"Grenade, Radiation",Simple Weapons,Tiny,500,3d8*,,E,"0,5",GW,39,In addition to the explosion dmg targets in area is also exposed to Moderate exposure to radiation (CR 255).
+"Grenade, Remote",Simple Weapons,Tiny,300,4d6,,E,1,K,180,"Handheld 100-credit detonator, Must be atleast 100m away."
+"Grenade, Smoke",Simple Weapons,Tiny,100,,,,"0,5",GW,39,Provides concealment in area and creates a smoke hazard (CR 256) Cloud lasts for 10 rounds.
+"Grenade, Stun",Simple Weapons,Tiny,250,,4d6,E,"0,5",CR,129,
+Targeting laser,Simple Weapons,Tiny,50,special,,E,"0,1",GW,42,"Can be mounted on any Medium or larger weapon. Atk roll ignores target's armor bonus to Ref Def, allies gain +2 atk with missile or grenade launcher or vehicle weapon."
+Thermal detonator Small,Simple Weapons,Tiny,2000,8d6,,E,1,CR,130,Can be set for 1-3 rounds timer.
+,,,,,,,,,,
+"Grenade, EMP",Simple Weapons,Small,500,3d6 Ion,,EI,"0,5",C,62,Works as normal Ion dmg.
+Razor Bug,Simple Weapons,Small,800,2d8,,P,"0,5",L,65,"Rare, Treated as Simple weapon not Thrown for range."
+Sling,Simple Weapons,Small,35,1d4,,B,"0,3",CR,130,Add STR mod to dmg rolls.
+Thud Bug,Simple Weapons,Small,800,2d8,2d8,B,"0,5",L,65,"Rare, Treated as Simple weapon not Thrown for range. Stun can be used at point blank or short range."
+,,,,,,,,,,
+Bow,Simple Weapons,Medium,300,1d6,,P,"1,4",CR,128,"Add STR mod to dmg rolls, Reload as F Action. Quiver of 10 arrows weights 0.8kg."
+Crossbow,Simple Weapons,Medium,300,1d8,,P,"1,8",UR,37,Reloading as a M Action. Can not be used with ability that expends more than one shot. Magazine weights 1.2kg.
+"Crossbow, Repeating",Simple Weapons,Medium,400,1d8,,P,"1,2",GW,39,
+Darter,Simple Weapons,Medium,150,1,,P,3,GI,64,Weapon's maximum range is short.
+,,,,,,,,,,
+Net,Simple Weapons,Large,25,,,,"4,5",CR,130,"Initiate a grab or grapple, can use Pin and Trip feat, Escape DC 15 Acrobatics check or DC 20 Strength check."
+Squib battering ram,Simple Weapons,Large,3500,5d10,,E,10,SV,52,"2 crew to operate, only vs. stationary targets. Requires 4 power packs to operate."
